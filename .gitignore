@@ -1,0 +1,12 @@
+venv/
+.env
+__pycache__/
+*.pyc
+data/raw/*
+data/processed/*
+data/metrics/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/metrics/.gitkeep
+.pytest_cache/
+.DS_Store

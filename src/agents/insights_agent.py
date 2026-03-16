@@ -1,0 +1,77 @@
+import pandas as pd
+from openai import OpenAI
+from dotenv import load_dotenv
+import json
+
+class InsightsAgent:
+    def __init__(self, users_csv_path: str, repos_csv_path: str):
+        """Initialize the agent with paths to our processed CSV data."""
+        load_dotenv()
+        self.client = OpenAI()
+        self.users_df = pd.read_csv(users_csv_path)
+        self.repos_df = pd.read_csv(repos_csv_path)
+        
+        # Prepare context summaries to inject into the prompt
+        self.ecosystem_summary = self._generate_ecosystem_summary()
+
+    def _generate_ecosystem_summary(self) -> str:
+        """Create a compact statistical summary of the dataset for the LLM."""
+        total_devs = len(self.users_df)
+        total_repos = len(self.repos_df)
+        total_stars = int(self.users_df['total_stars_received'].sum())
+        
+        # Top languages safely
+        top_langs = self.repos_df['language'].value_counts().head(5).to_dict() if 'language' in self.repos_df.columns else {}
+        
+        # Top industries safely
+        top_industries = self.repos_df['industry_name'].value_counts().head(5).to_dict() if 'industry_name' in self.repos_df.columns else {}
+        
+        # Top 5 developers by Impact Score
+        top_devs = self.users_df.nlargest(5, 'impact_score')[['username', 'impact_score', 'total_stars_received']].to_dict('records')
+        
+        summary = f"""
+        DATASET SUMMARY (PERU DEVELOPER ECOSYSTEM):
+        - Total Developers Tracked: {total_devs}
+        - Total Repositories Tracked: {total_repos}
+        - Total Stars Received: {total_stars}
+        
+        Top 5 Programming Languages:
+        {json.dumps(top_langs, indent=2)}
+        
+        Top 5 Industries Served (CIIU):
+        {json.dumps(top_industries, indent=2)}
+        
+        Top 5 Developers (by Impact Score):
+        {json.dumps(top_devs, indent=2)}
+        """
+        return summary
+
+    def ask(self, user_question: str) -> str:
+        """Answer queries based on the pre-computed ecosystem statistics."""
+        
+        system_prompt = f"""
+        You are 'Antigravity Insights Agent', an expert data analyst for the GitHub Peru Analytics project.
+        Your job is to answer questions about the Peruvian developer ecosystem using ONLY the statistical context provided below.
+        
+        CONTEXT:
+        {self.ecosystem_summary}
+        
+        RULES:
+        1. Be concise, professional, and directly answer the question.
+        2. If the user asks for data not present in the CONTEXT, politely state that you only have access to the provided summary metrics.
+        3. Do not invent or hallucinate developers, repos, or statistics.
+        4. If asked about your creators or identity, mention you are part of the 'GitHub Peru Analytics' project built by chero and Antigravity.
+        """
+        
+        try:
+            response = self.client.chat.completions.create(
+                model="gpt-4-turbo-preview",
+                messages=[
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": user_question}
+                ],
+                temperature=0.4,
+            )
+            return response.choices[0].message.content
+        except Exception as e:
+            return f"Error connecting to AI Agent: {str(e)}"
