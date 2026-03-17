@@ -6,8 +6,18 @@ import json
 class InsightsAgent:
     def __init__(self, users_csv_path: str, repos_csv_path: str):
         """Initialize the agent with paths to our processed CSV data."""
-        load_dotenv()
-        self.client = OpenAI()
+        import os
+        try:
+            import streamlit as st
+            if "OPENAI_API_KEY" in st.secrets:
+                self.client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
+            else:
+                load_dotenv()
+                self.client = OpenAI()
+        except Exception:
+            load_dotenv()
+            self.client = OpenAI()
+            
         self.users_df = pd.read_csv(users_csv_path)
         self.repos_df = pd.read_csv(repos_csv_path)
         
