@@ -1,0 +1,1001 @@
+repo_id,name,owner,stars,forks,language,topics,description,industry_code,industry_name,industry_confidence
+244460835,Riskfolio-Lib,dcajasn,3815,612,C++,"asset-allocation, convex-optimization, cvar-optimization, cvxpy, drawdown-model, duration-matching, efficient-frontier, finance, investment, investment-analysis, portfolio-management, portfolio-optimization, principal-components-regression, quantitative-finance, risk-contribution, risk-factors, risk-parity, sharpe-ratio, stepwise-regression, trading",Portfolio Optimization and Quantitative Strategic Asset Allocation in Python,K,Financial and insurance activities,high
+10300592,Lightning.NET,CoreyKaylor,453,91,C#,,.NET library for LMDB key-value store,J,Information and communication,high
+671751674,simple-openai,sashirestela,376,56,Java,"ai, api, awesome, azure-openai, chatgpt, client, deepseek, gemini, gen-ai, generative-ai, gpt, httpclient, java, llm, mistral, okhttp, openai, realtime, simple, websocket",A Java library to use the OpenAI Api in the simplest possible way.,J,Information and communication,high
+447062522,sublimepatch,CodigoCristo,301,74,C,,Crack para Sublime Text y Merge,J,Information and communication,high
+134213365,yuml-diagram,jaime-olivares,250,28,JavaScript,"npm, sequence-diagram, uml, uml-diagram, yuml, yuml-syntax",UML diagramming package based on the yUML syntax,M,"Professional, scientific activities",high
+49774582,DragonUnPACKer,elbereth,239,22,Pascal,,Free/Open source game file resource explorer/unpacking tool made easy! ,R,"Arts, entertainment and recreation",high
+38088623,slim-session,bryanjhv,233,36,PHP,"middleware, php, session, slim-3",A very simple session middleware for Slim Framework 2/3/4.,J,Information and communication,high
+831260164,react-video-editor,Pablituuu,230,59,TypeScript,"canvas, development, editor, fabricjs, moveable, reactjs, render, vercel, video, zustand",Online video editor alternative to canva and capcut. React video editor.,R,"Arts, entertainment and recreation",high
+292127993,Machine-Learning-Deep-Learning-Resources,heygonzalocaira,206,56,,"awesomelist, deep-learning, deep-neural-networks, machine-learning, neural-network, resources",Completely free access list of resources to learn machine learning and deep learning👨🏻‍💻🚀,M,"Professional, scientific activities",high
+465525987,estela,bitmakerla,195,18,TypeScript,"crawling, django, docker, hacktoberfest, kubernetes, python, python-requests, react, requests, scraper, scraping, scrapy, scrapy-visualization, scrapyd, web-scraping, webscraping-python","estela, an elastic web scraping cluster 🕸",J,Information and communication,high
+42634933,zipstorer,jaime-olivares,192,66,C#,"async-await, compression, cross-platform, csharp, deflate, mono, netcore, netframework, netstandard, nuget, stream, zip, zip-storage",A Pure C# Class to Store Files in Zip,J,Information and communication,high
+686721173,easyreadme,xavimondev,183,15,TypeScript,"gpt-3, gpt-3-5-turbo, hacktoberfest, nextjs, openai, readme, readme-generator, readme-template, shadcn-ui, tailwind-css, tiptap-editor, typescript, upstash-redis, vercel-ia, vercel-kv, zustand",Easyreadme helps you simplify README creation and generate visually stunning ones with the help of AI and elegant pre-designed templates.,J,Information and communication,high
+48884355,HorizontalFloatingHeaderLayout,cruzdiego,159,21,Swift,,"Floating headers with horizontal scrolling layout for UICollectionView, inspired by iOS native Emoji Keyboard layout",J,Information and communication,high
+393101600,Dotfiles-for-Windows-11,JuanOrbegoso,138,40,PowerShell,"chocolatey, docker, dotfiles, git, notepad-plus-plus, oh-my-posh, powershell, vim, vimrc, vscode, windows, windows-11, windows-terminal, wsl",Dotfiles script to setup a development environment in Microsoft Windows 11.,J,Information and communication,high
+28095848,Plus-for-Trello,zmandel,129,26,JavaScript,,"Plus for Trello chrome extension, web & mobile app",J,Information and communication,high
+874580968,starter,edgefirst-dev,128,7,TypeScript,,A full-stack starter kit for Edge-first applications built with React on top of Cloudflare Developer Platform,J,Information and communication,high
+443646773,scikit-eo,ytarazona,126,14,,"change-detection, deep-learning, earth-observation, image-classification-algorithms, optical-imaging, radar-imagery, remote-sensing, satellite-imagery, spectral-mixture-analysis, time-series-analysis",A Python package for Remote Sensing Data Analysis,M,"Professional, scientific activities",high
+780548406,Sparrow-Extended-GUI-for-RIGOL-DHO800_DHO900,mriscoc,123,9,Smali,,Sparrow Android GUI project for Rigol DHO800 and DHO900 series Oscilloscopes,C,Manufacturing,high
+481456540,minimal-zig-wasm-canvas,daneelsan,122,10,Zig,"html5-canvas, javascript, wasm, webassembly, zig","A minimal example showing how HTML5's canvas, wasm memory and zig can interact.",J,Information and communication,high
+63096671,vscode-yuml,jaime-olivares,117,26,JavaScript,"markdown, sequence-diagram, uml, uml-diagram, vscode, vscode-extension, yuml, yuml-syntax",yUML extension for Visual Studio Code,M,"Professional, scientific activities",high
+87747322,spring-data-generator,cmeza20,110,49,Java,,Spring Data Generator for JPA repositories and managers.,J,Information and communication,high
+378782590,GTranslate,d4n3436,104,15,C#,"text-to-speech, translation, translation-api, translator, translator-api, tts","A collection of free translation APIs (Google Translate, Bing Translator, Microsoft Translator and Yandex.Translate).",J,Information and communication,high
+329460539,helpdeskz-dev,helpdesk-z,97,72,PHP,,HelpDeskZ is a free PHP based software which allows you to manage your site's support with a web-based support ticket system.,J,Information and communication,high
+459328664,discord-modals,Mateo-tem,92,27,JavaScript,"discord-forms, discord-modals, discordjs-modals, interaction-modal, modal-interactions, modals",discord-modals is a package that allows your bot of discord.js v13 to create the new Discord Modals and interact with them.,J,Information and communication,high
+137712029,reactube-client,rafaesc,90,18,TypeScript,"context, crop-videos, google, provider, react, react-context, react-router, state-management, styled-components, typescript, video, without-api, without-redux, youtube","A clone Youtube Web Player using React Provider Pattern, React Context and Typescript",J,Information and communication,high
+622768469,sd-webui-stopmotion,gogodr,89,2,Python,,,R,"Arts, entertainment and recreation",medium
+390141353,UIKitTutorials,Jeyderht,86,28,C#,,C# - WPF Menu Vertical,J,Information and communication,high
+616210503,AdverseCleanerExtension,gogodr,85,36,Python,,Remove adversarial noise from images,M,"Professional, scientific activities",high
+34436942,materialize-tags,henrychavez,82,24,JavaScript,,A jQuery tags input plugin based on Materialize,J,Information and communication,high
+51562847,peru-geojson,juaneladio,81,104,,,"Archivos GeoJSON con los polígonos que representan a departamentos, provincias y distritos del Perú.",O,Public administration and defense,high
+302172413,Python-for-physicists,PCPUNMSM,79,31,Jupyter Notebook,,Repository of courses taught by the Python Club for Physicists,M,"Professional, scientific activities",high
+655336865,quantum-bot,NeoKode,77,126,JavaScript,"baileys, bot, downloader, jadibot, nekosmic, optimized, simple, termux, termux-bot-whatsapp, uwu, whatsapp, whatsapp-bot, whatsapp-stickers, whatsapp-userbot, zipponodes","Bot designed for a friendly, fun and simple audience. It was prioritized to be run in termux from Android with basic javascript (I don't study programming, but it's fun to do this muahahaha :v), thanks for visiting, don't forget to smile! :3",R,"Arts, entertainment and recreation",medium
+42634120,wpf-propertygrid,jaime-olivares,75,30,C#,"netframework, property-grid, ui-components, wpf",Repackaging of Workflow Foundation's property grid for general use in WPF applications,J,Information and communication,high
+195475637,secure-coding-with-python,nxvl,75,20,Python,,Secure Coding in python,J,Information and communication,high
+1050804307,warp.dev_account_manager,ghondar,74,27,Python,,"Warp.dev IDE Free - PRO, Cursor / Windsurf / Kiro Dev Alternative",J,Information and communication,high
+13101329,wtforms-tornado,puentesarrin,71,10,Python,,WTForms extensions for Tornado.,J,Information and communication,high
+213261768,GOES,joaohenry23,71,21,Python,,Python package to download and manipulate GOES-16/17/18/19 data.,M,"Professional, scientific activities",high
+88686093,gproshan,larc,71,15,C++,"computational-geometry, cpp, cuda, dictionary-learning, geometry-processing, opengl, shape-analysis, sparse-coding",geometry processing and shape analysis framework,M,"Professional, scientific activities",high
+844320702,kit,edgefirst-dev,69,2,TypeScript,,EdgeKit.js is a toolkit to helps you build on top of Cloudflare Development Platform with ease,J,Information and communication,high
+700062596,Oxidus,JairHuamanBellido,69,7,TypeScript,,A theme color generator ,M,"Professional, scientific activities",medium
+416860698,WPFModernVerticalMenu,Jeyderht,68,25,C#,,,J,Information and communication,medium
+631718451,revanced-patches-android5,d4n3436,67,2,Kotlin,,YouTube ReVanced for Android 5,J,Information and communication,high
+109532835,fullstack-graphql-angular,rafaesc,63,17,TypeScript,"angular, angular2, expressjs, fullstack, graphql, graphql-client, graphql-schema, graphql-server, mysql, ngrx, nodejs, redux, sequelize, typescript","Simple Fullstack GraphQL Application with Angular CLI + Redux. API built with Typescript + Express + GraphQL + Sequelize (supports MySQL, Postgres, Sqlite and MSSQL). WebApp built with Angular CLI + Redux + Async Middleware to access the API.",J,Information and communication,high
+831805289,hubdev.tools,xavimondev,62,6,TypeScript,"groq, hacktoberfest, nextjs, openai, shadcn-ui, supabase, typescript, upstash, vercel-ai-sdk","A collection of resources and tools for developers, Utilize advanced semantic search, powered by Vercel SDK, OpenAI, and Supabase.",J,Information and communication,high
+302735954,ForesToolboxRS,ytarazona,60,11,R,"change-detection, deforestation, machine-learning, remote-sensing",Remote Sensing Tools for Forest Monitoring,A,"Agriculture, forestry and fishing",high
+692498804,KatashiBot-MD,KatashiFukushima,59,33,JavaScript,,"𝙃𝙤𝙡𝙖 👋 𝘽𝙞𝙚𝙣𝙫𝙚𝙣𝙞𝙙𝙤 𝙖𝙡 𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙞𝙤 𝙤𝙛𝙞𝙘𝙞𝙖𝙡 𝙙𝙚 𝙆𝙖𝙩𝙖𝙨𝙝𝙞𝘽𝙤𝙩-𝙈𝘿. 💫 𝘼𝙦𝙪𝙞 𝙨𝙚 𝙧𝙚𝙖𝙡𝙞𝙯𝙖𝙣 𝙖𝙘𝙩𝙪𝙖𝙡𝙞𝙯𝙖𝙘𝙞𝙤𝙣𝙚𝙨. 𝙎𝙞 𝙩𝙚 𝙖𝙜𝙧𝙖𝙙𝙖 𝙚𝙡 𝙗𝙤𝙩, 𝙙𝙖𝙡𝙚 𝙪𝙣𝙖 🌟 𝙂𝙧𝙖𝙘𝙞𝙖𝙨 𝙥𝙤𝙧 𝙫𝙞𝙨𝙞𝙩𝙖𝙧 𝙚𝙨𝙩𝙚 𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙞𝙤. ⚡",J,Information and communication,high
+530437368,Python-StudyClub,DataEngineering-LATAM,58,15,Jupyter Notebook,,¡Club de estudios para Python! Se comparte material útil sobre los diversos temas avanzados sobre Python en la comunidad.,P,Education,high
+186746234,react-todo,Luiggi370z,58,32,JavaScript,"blueprint, react-redux, reactjs, sass, todoapp, unit-testing",ReactJS + CSS Modules + Sass + Blueprint,J,Information and communication,high
+245474586,legochain,defunkydrummer,57,3,Common Lisp,"blockchain, common-lisp, lisp",Simple educational blockchain in Common LIsp,K,Financial and insurance activities,high
+102127660,nativescript-bottom-navigation,henrychavez,57,16,TypeScript,,Nativescript plugin for Android & iOS to have the bottom navigation bar of Material Design,J,Information and communication,high
+563079683,plexo-core,minskylab,56,9,Rust,"ai, automation, developer-tools, open-source, productivity, project-management","Plexo: The next generation, open-source, and AI-powered tool for planning, managing, and collaborating on your software projects.",J,Information and communication,high
+581597295,Desarrollo-Web-FullStack-con-Django-y-React,apholdings,54,16,JavaScript,,,J,Information and communication,high
+366542185,Plantilla-Tesis-UNI-LaTeX,KeyvinSV,53,28,TeX,,LaTeX Template para tesis de grado de la Universidad Nacional de Ingeniería ,P,Education,high
+788582882,snap2sql,xavimondev,52,9,TypeScript,"cli, hackaton-supabase, nextjs, openai, shadcn-ui, supabase, tailwindcss, typescript, vision-api",Convert your database diagrams into SQL Schema,J,Information and communication,high
+345434096,ubigeo-peru-aumentado,jmcastagnetto,49,19,R,"csv, dataset, json, opendata, peru, r, ubigeo","Datos de equivalencias entre códigos de UBIGEO de RENIEC e INEI, con información sobre clasificación en macro-regiones, asi como latitud, longitud, superficie y altitud del distrito.",O,Public administration and defense,high
+567477367,medusa-payment-mercadopago,minskylab,48,10,TypeScript,"ecommerce, medusajs, mercadopago","A MedusaJS plugin for Mercado Pago, a payment platform in Latin America. It enables merchants to accept payments in their local currency.",G,Wholesale and retail trade,high
+269537148,google_maps_rule,edwinmacalopu,48,14,Dart,,":earth_americas::straight_ruler::triangular_ruler: google maps flutter ruler and area, distance between two points",F,Construction,medium
+556828062,SunglassesHubETL,SebasMBK,48,5,Python,,This project is for demonstrating knowledge of Data Engineering tools and concepts and also learning in the process,G,Wholesale and retail trade,medium
+167600680,abcl-jazz,defunkydrummer,47,3,Common Lisp,"abcl, common-lisp, gui, lisp",Example on how to use Java Swing from ABCL (Armed Bear Common Lisp),J,Information and communication,high
+852962432,r2-file-storage,edgefirst-dev,47,0,TypeScript,"file-api, file-storage, r2, r2-bucket",A File Storage object built over R2.,J,Information and communication,high
+635299508,auto-rust,minskylab,46,3,Rust,"ai, ai-functions, autogpt, gpt-3, gpt-4, llm, openai-api","auto-rust is an experimental project that automatically generate Rust code with LLM (Large Language Models) during compilation, utilizing procedural macros.",M,"Professional, scientific activities",high
+192464259,react-starter-kit,Luiggi370z,46,19,JavaScript,"best-practices, enzyme, eslint, jest, prettier, reactjs, redux, starter-kit",Basic ReactJS Starter kit with best practices and folder structure,J,Information and communication,high
+453502094,PowerBi-StudyClub,DataEngineering-LATAM,42,7,,"data-analysis, data-science, data-visualization, power-bi, power-bi-dax",Grupo de Estudios de Power BI organizado por la comunidad Data Engineering Latam,M,"Professional, scientific activities",high
+507719692,Top20FinanceBooks,AChangM,42,8,,,Top 20 Finance Books recommended by CFA,K,Financial and insurance activities,high
+262174397,android-developer-resources,Android-Dev-Peru,41,9,,,Android Developer resources,J,Information and communication,high
+644025347,Curso_C_Embebido,WelsTheory,40,6,Assembly,,,C,Manufacturing,medium
+426871346,Spark-StudyClub,DataEngineering-LATAM,40,29,Jupyter Notebook,"data-engineering, data-science, pyspark, spark",Grupo de Estudios de Apache Spark organizado por la comunidad Data Engineering Latam,M,"Professional, scientific activities",high
+660113380,ddd,nestjslatam,40,2,TypeScript,"ddd, ddd-architecture, ddd-lib, ddd-patterns, library, nestjs, shared",A simple DDD library to apply Domain-Driven Design with NESTJS,J,Information and communication,high
+23264581,blocks,ex,38,12,C,,Simple blocks game,R,"Arts, entertainment and recreation",high
+1019987379,VTS,j05u3,38,4,Swift,"macos, stt, swift","Transform your voice into text instantly with the power of OpenAI, Groq, and Deepgram APIs. Say goodbye to macOS dictation limitations and hello to lightning-fast, accurate transcription! ⚡️",J,Information and communication,high
+946192359,tasker-mcp,dceluis,37,9,Go,"golang, mcp, mcp-server, tasker, tasker-project",An MCP server for Android's Tasker automation app.,J,Information and communication,high
+637420785,Curso_Inteligencia_Artificial_Ejercicios_Basicos,apholdings,36,6,Python,,"Recursos del curso de inteligencia artificial, ejercicios basicos.",P,Education,high
+114303131,ninglex,defunkydrummer,35,6,Common Lisp,"common-lisp, web-development, web-framework","Easy to learn, quick and dirty, bare-bones web framework for Common Lisp",J,Information and communication,high
+313367071,my_init.vim,eduarQuintero73,35,27,Vim script,,,J,Information and communication,high
+112387860,lisp-xl,defunkydrummer,33,6,Common Lisp,"common-lisp, excel, xlsx",Common Lisp Microsoft XLSX (Microsoft Excel) loader for arbitrarily-sized / big-size files,J,Information and communication,high
+280770694,forestools,ytarazona,33,0,Python,"detect-deforestation, ndfi-index, remote-sensing, time-series-, time-series-change-detection",Tools for detecting deforestation and forest degradation,A,"Agriculture, forestry and fishing",high
+999842211,demosite_appscript,zmandel,33,3,JavaScript,,,J,Information and communication,low
+394480216,Fergun.Interactive,d4n3436,32,7,C#,"discord, discord-bot, discord-net, discordapp, discordbot, interactive",An addon that provides interactive functionality to Discord commands.,J,Information and communication,high
+277937303,Fergun,d4n3436,31,10,C#,"csharp, discord, discord-bot, discord-net, image-search, ocr, tts",A utility Discord bot written in C# using Discord.Net,J,Information and communication,high
+604278651,fastapi-hexagonal,dev-lusaja,31,15,Python,,Arquitectura hexagonal utilizando el framework fastapi de python,J,Information and communication,high
+442041405,Osintgram,NextKool,30,12,Python,,Osintgram is a OSINT tool on Instagram. Total credit to Datalux,J,Information and communication,high
+984889570,pb_launcher,user0608,30,5,Go,"firebase, pocketbase, proxy, supabase","A fast and lightweight Go-based launcher for managing PocketBase instances. Single binary, open source, and easy to use",J,Information and communication,high
+42590904,xmldoc2md,jaime-olivares,29,7,XSLT,"build-automation, markdown, msbuild, powershell-script, stylesheets, visual-studio, xml-document",Automatic documentation markdown formatter for Visual Studio projects,J,Information and communication,high
+620949167,Awesome-Books,CarlosIgreda,28,0,JavaScript,"css, dom-manipulation, flexbox, grid-layout, html, javascript, media-queries","In this project, I will build a basic website that allows users to add/remove books from a list. I will achieve that by using JavaScript objects and arrays. I will also need to dynamically modify the DOM and add basic events.",J,Information and communication,high
+595763930,JetCoMovie-App-,carlosgub,28,4,Kotlin,"android, clean-architecture, compose, coroutines-android, coroutines-flow, example-app, flow, hilt, hilt-android, jetpack-compose, kotlin, kotlin-android, kotlin-coroutines, lottie, lottie-android, movies, movies-api, mvvm, room, room-database",Jetpack Compose + Coroutines Flow + MVVM + Clean + Hilt + Room,R,"Arts, entertainment and recreation",high
+671342496,pizomniatool,theb4rt,28,0,Python,,"PiZ0mn1aTool is a compact and powerful hacking tool, crafted around the Raspberry Pi Zero 2W, paired with a Display Gaming LCD Hat.",J,Information and communication,high
+64990789,Piranhas,ArturoDeza,26,1,Matlab,,A Toolkit for creating Peripheral Architectures (NIPS 2016),M,"Professional, scientific activities",high
+680705850,whatsapp-cloud-api-express,j05u3,26,4,TypeScript,"aws-lambda, bot-framework, chatbot, express, google-cloud-functions, nodejs, serverless, webhook, whatsapp-bot, whatsapp-chatbot, whatsapp-cloud, whatsapp-cloud-api",A set of Node.js and Express.js functions for sending/receiving messages using the Whatsapp Cloud API. Suited to work in serverless environments.,J,Information and communication,high
+635396417,curso_microservicios_backend,apholdings,25,1,Python,,Curso de Microservicios con Django rest framework y NextJS,J,Information and communication,high
+623681780,To-Do-list,CarlosIgreda,25,0,JavaScript,"babel, css, html, javascript, jest, testing, webpack","In this project, I will build a simple HTML list of To Do tasks. The list will be styled according to the specifications listed later in this lesson. This simple web page will be built using webpack and served by a webpack dev server.",J,Information and communication,high
+604329368,Portfolio-setup-and-mobile-first,CarlosIgreda,25,1,CSS,"css, dom-manipulation, flexbox, grid-layout, html, javascript, media-queries","In this project, I will build a portfolio website from scratch for mobile and desktop version using HTML, CSS and JavaScript.",J,Information and communication,high
+888270060,programa7genai,macespinoza,25,10,Jupyter Notebook,,Curso de Introducción a la Inteligencia Artificial Generativa con Modelos de Gran Tamaño,M,"Professional, scientific activities",high
+41637926,dashninja-fe,elbereth,25,39,JavaScript,"blockchain, dashpay, monitoring, phalcon, php",Dash Ninja Front-End (Public Rest API+HTML+JS),K,Financial and insurance activities,high
+20003052,asyncflux,puentesarrin,25,1,Python,,Asynchronous client for InfluxDB and Tornado.,J,Information and communication,high
+384200521,kitty-terminal-cheatsheet,jmcastagnetto,24,0,TeX,,A simple cheatsheet based on the kitty terminal documentation,J,Information and communication,high
+482640421,ENDES-INDICADORES-STATA,ljporras,24,6,Stata,,Sintaxis en Stata para estimar indicadores con la Encuesta Demográfica y de Salud Familiar (ENDES) del Peru.,Q,Human health and social work,high
+338209810,summer-school-2021,PCPUNMSM,24,11,Jupyter Notebook,"caos, numerical, numerical-methods, pendulum, physics, radiative-decay","Repositorio de la II Escuela de Verano en Física computacional (100% virtual), donde participaron estudiantes de habla hispana de todo lationamérica.",M,"Professional, scientific activities",high
+281318783,quantum-computing,PCPUNMSM,24,2,Jupyter Notebook,"python, qiskit, qiskit-global-summer-school, quantum-computing, quantum-mechanics, softbutterfly",Materials written by @zodiacfireworks and @RcrdPhysics as part ot the IBM Qiskit Global Summer School.,M,"Professional, scientific activities",high
+623050244,Awesome-Books-ES6,CarlosIgreda,24,1,JavaScript,"css, dom-manipulation, es6, html, javascript, media-queries","In this project, I will restructure your Awesome books app code. The goal is to make it more organized by using modules. I will also practice the ES6 syntax that I have learned.",J,Information and communication,high
+146135280,node-suitetalk,felipechang,24,31,JavaScript,,NodeJs Suitetalk wrapper for NetSuite,K,Financial and insurance activities,high
+863799372,data,edgefirst-dev,24,0,TypeScript,"dto, edgefirst-dev, formdata-parser, object-parser, searchparams-parser, typescript","TypeScript utilities for safely parsing and handling structured data using DTOs and parsers for FormData, URLSearchParams, and JSON objects.",J,Information and communication,high
+2616883,rubyperu.github.com,rubyperu,24,15,CSS,"hacktoberfest, jekyll, peru, ruby",Sitio ruby.pe y wiki de la comunidad,J,Information and communication,high
+616731527,Capstone-Project,CarlosIgreda,23,0,CSS,"css, dom-manipulation, flexbox, grid-layout, html, javascript, media-queries","In this capstone project, I'm going to build is based on an online website for a conference using HTML, CSS and JavaScript.",R,"Arts, entertainment and recreation",medium
+684222807,kotlinm-charts,carlosgub,23,2,Kotlin,"android, charts, compose-multiplatform, ios, kotlin, kotlin-multiplatform","This library contains several chart composables for usage in Kotlin Multiplatform projects. Currently supported platforms are iOS, Android and Desktop (not verified).",J,Information and communication,high
+504610856,Download_ERA5_with_python,joaohenry23,23,5,,,Tutorial for download ERA5 data using python.,M,"Professional, scientific activities",high
+316637664,GScraper,d4n3436,23,5,C#,"brave, duckduckgo, google, google-images, gscraper, web-scraping","A collection of search engine image scrapers (Google Images, DuckDuckGo and Brave)",J,Information and communication,high
+686218584,obsidian-periodic-notes-calendar,luiisca,23,2,TypeScript,"calendar, obsidian-plugin, svelte, typescript",Obsidian plugin to organize periodic notes from daily to yearly with a calendar interface. Navigate and summarize entries using stickers in the calendar view.,J,Information and communication,high
+568473412,PSWindowsDotfiles,JuanOrbegoso,23,2,PowerShell,powershell,Create and Run 🚀 Dotfiles projects for Windows 10/11,J,Information and communication,high
+567518208,blob,minskylab,21,1,Rust,"artificial-life, chatgpt, lowcode, openai-api, rust, software-engineering","Blob aspires to be a new kind of software, one that is alive. It is a tool that utilizes large language models technology to enable the definition and implementation of software projects in natural language.",J,Information and communication,high
+474461070,WPFUIKitProfessional,Jeyderht,20,9,C#,,,J,Information and communication,medium
+322384,servicebroker-queues,CoreyKaylor,20,7,C#,,A easy to use queue library for SQL Service Broker based on rhino-queues,J,Information and communication,high
+826606817,seo-ai,xavimondev,20,1,TypeScript,,Command-line tool to generate SEO metadata and HTML meta tags using AI models,J,Information and communication,high
+513694291,zig-wasm-logger,daneelsan,20,0,Zig,"javascript, wasm, zig",A simple implementation of console.log() in Zig + JS + Wasm,J,Information and communication,high
+814450362,floating-views,luiisca,20,5,Kotlin,"android-library, floating, jetpack-compose, kotlin-android",Kotlin library for effortlessly creating customizable floating UI elements in Android apps.,J,Information and communication,high
+274217693,Statdownscaling,Hydroenvironment,19,6,R,"biascorrection, climate, climatechange, downscaling, hydrology, hydrolohy, meteorology",Statistical dowscaling of climate data at daily scale using quantile mapping (QPM) technique.,E,Water supply; sewerage,medium
+173377101,NeuroFovea,ArturoDeza,19,0,Lua,,Code to generate visual metamers via foveated feed-forward style transfer (ICLR 2019),M,"Professional, scientific activities",high
+549328364,contentcreators,xavimondev,19,5,TypeScript,"hacktoberfest, next, react, tailwindcss, typescript, vercel",Plataforma web en donde encontrarás los mejores creadores de contenido en español.,R,"Arts, entertainment and recreation",high
+978434517,gcp-ai-agent-starter-kit,macespinoza,19,6,Jupyter Notebook,"ai-agents, bigquery, cloud-run, gcp, generative-ai, langchain, llm, llm-agents, openai, prompt-engineering, rag","Starter kit to deploy LLM agents with memory and RAG using LangChain, OpenAI, and Google Cloud (Cloud Run, BigQuery).",J,Information and communication,high
+766025398,nodejs-ts-kafka-auth-message,madmarin,19,0,TypeScript,"apache-kafka, nodejs, typeorm, typescript",Node js REST API using apache kafka to receive messages.,J,Information and communication,high
+266682954,google_maps_directions_alternative,edwinmacalopu,19,8,Dart,,":earth_americas: :triangular_flag_on_post: :arrow_right_hook: OSRM route is free, alternative to google api directions for flutter.",H,Transportation and storage,high
+360727272,Another-GiftCards-Bot,x-name15,19,9,Python,,This is a another Discord Giftcards Generator Bot,G,Wholesale and retail trade,medium
+501467751,Keypoints,Artcs1,19,3,C++,,[CVPRW 2022] Panoramas based on Keypoint Matching: a Comparative Study and Critical Analysis,M,"Professional, scientific activities",high
+420725777,Airflow-StudyClub,DataEngineering-LATAM,18,11,Python,"apache-airflow, data-engineering, python",Grupo de estudio Apache Airflow organizado por la comunidad Data Engineering Latam,M,"Professional, scientific activities",high
+153801766,Python-Basic-Training,Hydroenvironment,18,14,Python,,Some training examples for python programming in hydrology and climatology,A,"Agriculture, forestry and fishing",medium
+775276158,geocodificacion-con-python,geografope,18,8,Jupyter Notebook,"geocoding-con-python, geocoding-with-python, geografia, geografia-computacional, geografope, geopy, geopython, peru, python, spatial",Este repositorio 📁 contiene un script📜 desarrollado en python que te permitirá realizar el proceso de geocodificación directa o inverso a través de un cuaderno de jupyter.,M,"Professional, scientific activities",high
+188272708,RClimChange,hllauca,18,6,R,,,M,"Professional, scientific activities",medium
+930738795,jwt,edgefirst-dev,18,1,TypeScript,,A library to simplify using JWT in your application.,J,Information and communication,high
+816480155,xml-gen-fee,madmarin,18,0,TypeScript,"genera, sunat, sunat-xml, xml","Paquete de código abierto para facilitar y mejorar la generación y creación de documentos xml en base las normas de SUNAT. Para generar Boletas de venta, Facturas, Notas de debito | Credito etc.",G,Wholesale and retail trade,high
+891429576,kick-dl,juliogarciape,18,3,JavaScript,"cli, cli-downloader, clips, downloader, ffmpeg, kick, kick-com, kick-downloader, livestream, streaming, twitch-dl, video, youtube-dl, yt-dlp",CLI tool for easily downloading VODs and Clips from kick.com,R,"Arts, entertainment and recreation",high
+178033378,COURSERA_Advanced-Machine-Learning-with-TensorFlow-on-GCP-Specialization,mirkorodriguez,18,15,HTML,,Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization offered by Google Cloud Team,J,Information and communication,high
+782623542,118_SistemaPrestamo_Net8_ADO.NET_NCapas,CodigoEstudiante,17,3,JavaScript,,,K,Financial and insurance activities,medium
+533356702,app-nodejs-codechallenge,yaperos,17,507,,core,Code challenge for potential Yaperos,J,Information and communication,high
+482644212,ENAHO-INDICADORES-STATA,ljporras,17,4,Stata,,Sintaxis en Stata para estimar indicadores con la Encuesta Nacional de Hogares (ENAHO) del Peru.,O,Public administration and defense,high
+1012409548,ArcrisGUI,CodigoCristo,17,2,C,,Instalador Gráfico para instalar fácil ArchLinux,J,Information and communication,high
+768889002,cyclia-frontend-android,madmarin,17,0,Dart,,,J,Information and communication,low
+703916478,sonner,madmarin,17,0,TypeScript,,An opinionated toast component for React.,J,Information and communication,high
+437351990,PeopleApp,EduDev06,17,3,Kotlin,"android, android-crud, android-mvvm-architecture, coroutines, jetpack-compose, navigation-component, room","PeopleApp is an application where you see the CRUD with the use of the Room database. You can delete, edit, create, and search for a user's data. The project uses Coroutines, Navigation, MVVM, Jetpack Compose and more",J,Information and communication,high
+984200075,template-hexagonal-java-spring,IvanPerez-dev,17,5,Java,,organizacion de componentes con la arquitectura hexagona con java spring boot plantilla de ejemplo,J,Information and communication,high
+701450011,ApiRestUnsplash,programadorescs,17,4,Kotlin,,"Mediante este ejemplo accederemos a la api de Unsplash, la particularidad de este endpoint es que la api_key esta al final de la misma url, para ello haremos uso los Interceptor para agregar dicha api_key.",J,Information and communication,high
+105169370,whatanime-android,maddog05,17,1,Kotlin,,Android implementation of whatanime.ga API,R,"Arts, entertainment and recreation",high
+606237417,uridium-protocol,apholdings,16,1,JavaScript,"dao, defi, ethereum, governance","Open source ecosystem designed to bring together decentralized finance (DeFi), online education, and video gaming. ",K,Financial and insurance activities,high
+912371507,ESA-zar-zip-decision,csaybar,16,0,,,What I think about tentative zarr+zip as the next Sentinel 2 format,M,"Professional, scientific activities",medium
+847413443,geoidep,ambarja,16,2,R,"cartografia, geoidep, peru, spatial",📥 Download geographic data on various topics provided and managed by the Spatial Data Infrastructure of Peru 🌎🌐.,M,"Professional, scientific activities",high
+21467275,django-sequence-field,gnrfan,16,20,Python,,A Django Field for creating templated sequence strings,J,Information and communication,high
+788577620,ine018-unmsm,ManuelLoaizaV,16,50,Python,,"Repositorio del curso Matemática Computacional de la Universidad Nacional Mayor de San Marcos dictado durante los ciclos 2024-1, 2024-2 y 2025-1.",P,Education,high
+543349568,ejercicios-logica-de-programacion-para-principiantes-en-pseint,malpicado,16,0,Papyrus,,Aqui subiremos todos los ejercicios de lógica de programación que estudiamos en el curso de Pseint,P,Education,high
+856823394,whatsApp-js-bot,haroldeustaquio,16,7,JavaScript,"automation, bot, js, python, whatsapp, whatsapp-api-node, whatsapp-bot, whatsapp-web, whatsapp-web-js","Automation bot for sending and tracking messages and file attachments via WhatsApp, using whatsapp-web.js for real-time alerts and scheduled notifications.",J,Information and communication,high
+824777983,morfhi-flutter-master,madmarin,16,0,Dart,,,J,Information and communication,low
+802682547,nextjs-commerce,madmarin,16,0,TypeScript,,,G,Wholesale and retail trade,high
+798183348,ProtejoApp,madmarin,16,1,,,(IN PROGRESS) Aplicación de control y protección de animales,Q,Human health and social work,medium
+208341749,OpenStreetMap-flutter,edwinmacalopu,16,4,HTML,,:globe_with_meridians: :round_pushpin: implement OpenStreetMap in flutter,H,Transportation and storage,medium
+160973174,ImageEditor,dpalominop,16,5,C++,,"Image Editor using Qt, C++ and Cuda",M,"Professional, scientific activities",medium
+38924135,monitoreoDeVehiculos,jumanor,16,13,HTML,,Monitoreo de Vehiculos en Tiempo Real con WebSocket (Node.js),H,Transportation and storage,high
+662209055,BlazorWeb,erickorlando,15,1,C#,,Carrito de compras para una pasteleria,G,Wholesale and retail trade,high
+1148547579,she.ships,crafter-station,15,2,TypeScript,,,J,Information and communication,low
+861436878,Melody-Lyric-Generator,haroldeustaquio,15,2,Jupyter Notebook,"ai-music, deep-learning, gpt-2, lyrics-generation, maestro, midi, music-ai, music-generation","Melody-Lyric-Generator is a tool for generating cohesive musical compositions by integrating melody generation and lyric creation. It leverages machine learning models, including fine-tuned GPT-2, and datasets like MAESTRO to produce high-quality melodies and Spanish-language lyrics.",R,"Arts, entertainment and recreation",high
+839526488,web-launcher,madmarin,15,0,HTML,,,J,Information and communication,low
+836369614,MRSTools,madmarin,15,1,C#,"csharp, decompiler, mrs",MRS Tools decompiler files,J,Information and communication,high
+824771653,bun-api-develop,madmarin,15,0,TypeScript,"bunjs, postgresql, typeorm, typescript",Bun Js REST API ,J,Information and communication,high
+824734590,Flask-APIRESTful-API,madmarin,15,0,Python,,"This is a Flask-based RESTful API for managing users, posts, messages, and images. The application features JWT authentication and CORS support, providing a secure and flexible backend for various web applications.",J,Information and communication,high
+824402297,supabase,madmarin,15,0,,,The open source Firebase alternative.,J,Information and communication,high
+687824289,natesexport,madmarin,15,0,JavaScript,,,J,Information and communication,low
+1036088824,StellarProtect,InsiderAnh,15,4,Java,,"StellarProtect is core for logging data, good alternative to CoreProtect.",J,Information and communication,high
+646296352,LeGO-LOAM,Rotvie,15,2,C++,,LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain,H,Transportation and storage,high
+366897222,Basic-Accounts-Gen-DiscordBot,x-name15,15,10,Python,,This is a accounts generator discord bot,J,Information and communication,high
+641489139,Ciencia_de_Datos_con_Python,apholdings,14,1,Python,,Curso de Introduccion a la Ciencia de Datos con Programacion Python. Veremos desde lo mas basico hasta Machine learning,M,"Professional, scientific activities",high
+745202526,obsidian-simple-flashcards,Railly,14,0,TypeScript,"flashcards, learning, memory, obsidian, obsidian-md, obsidian-plugin, spaced-repetition",Display interactive flashcards to formulate knowledge,P,Education,high
+626489539,Peer-feedback,CarlosIgreda,14,1,JavaScript,"css, html, javascript","In the ""Better communication in code reviews"" lesson, I have read and think a lot about the quality of my code and communication in code reviews. Now it is time for me to perform a code review for me partner! We asked Code Reviewers to ignore any issues related to best practices or clean code rules during their reviews.",P,Education,high
+623617688,webpack-demo,CarlosIgreda,14,0,JavaScript,"boilerplate, css, html, javascript, webpack","In this exercise I will build a simple yet powerful webpack boilerplate, which I can later use as a starting point in my projects.",J,Information and communication,high
+310078670,NeuroFovea_PyTorch,ArturoDeza,14,4,Python,,An adapted version of the Metamer Foveation Transform code from Deza et al. ICLR 2019,M,"Professional, scientific activities",high
+374554870,tienda-online,juliocesardw,14,12,HTML,"css, html, javascript","Diseño Tienda Online | HTML, CSS, JAVASCRIPT",G,Wholesale and retail trade,high
+776914568,visualizacion-datos-espaciales-con-keplergl,geografope,14,2,Jupyter Notebook,"cartografia, dataviz, geografia, geografia-computacional, geografope, geopython, keplergl-for-spatial, mapas, mapas-web, python, spatial","Kepler.gl 🌍, una herramienta open source basada en la web de alto rendimiento para la visualización de un gran conjunto de datos georreferenciados. Esta poderosa herramienta está construida sobre GL MapLibre y deck.gl 🛠️✨.",M,"Professional, scientific activities",high
+297842628,netsuite-starter,felipechang,14,4,JavaScript,"jest, netsuite, oracle, suitecloud, suitescript, suitescript2, typescript",Scaffold to build NetSuite Account Customizations and SuiteApps. ,K,Financial and insurance activities,high
+924556424,batcher,edgefirst-dev,14,0,TypeScript,,A simpler batcher for any async function,J,Information and communication,high
+839532448,Gunz-KillFeed,madmarin,14,0,,,,R,"Arts, entertainment and recreation",medium
+794316433,gymcrona,madmarin,14,0,Blade,,Systema de gimnasios. con administracion de locales y administrador de ventas y almacences,R,"Arts, entertainment and recreation",high
+16555562,brackets-tab-tags,bryanjhv,14,5,JavaScript,,Brackets extension to automatically add a tab when pressing ENTER into a HTML or XML tag.,J,Information and communication,high
+879399773,ln-diff,dceluis,14,0,,"coding-agents, coding-assistant, diff, llm","Line-numbered patch format. Non-sequential, llm and stream-friendly",J,Information and communication,high
+810902897,happybirthday-papel-picado,mabelolivera10,13,0,JavaScript,,,R,"Arts, entertainment and recreation",medium
+743754719,apuntes-pos-react,Franklin369,13,5,JavaScript,,,J,Information and communication,low
+1159753467,skill-kit,crafter-station,13,2,TypeScript,"analytics, skills",local-first analytics for AI agent skills,J,Information and communication,high
+611365924,Bootstrap-Project,CarlosIgreda,13,0,CSS,"bootstrap4, css, css3, sass, scss","In this exercise, I will experience the power of using a CSS framework like Bootstrap to create a new website quickly from scratch. I'm going to create a prototype of the portfolio website from scratch in a few hours.",J,Information and communication,high
+607414890,Review-one-of-your-past-projects,CarlosIgreda,13,0,HTML,"css, html","In this project, I worked with a coding partner doing a basic website in order to complete the trial from Microverse.",J,Information and communication,high
+601933065,HelloMicroverseProject,CarlosIgreda,13,0,HTML,"css, html","In this project, I will set up a ""Hello world"" repository. No complex coding is required for this exercise. My goal here is to master all of the tools and best practices I learned about in previous steps.",J,Information and communication,high
+601898077,readme-template,CarlosIgreda,13,0,,,A README template that can be used to give any project clear documentation.,J,Information and communication,high
+591106520,MicroverseTrial,CarlosIgreda,13,0,HTML,"css, html","In this project, I worked with a coding partner doing a basic website in order to complete the trial from Microverse.",J,Information and communication,high
+11434849,metropolitano,juaneladio,13,7,HTML,,"Una app para Firefox OS / FirefoxOS (y cualquier navegador web) para usuarios del Metropolitano, un sistema de transporte público en Lima, Perú.",H,Transportation and storage,high
+675195215,supaplay,xavimondev,13,1,TypeScript,"playground, react, supabase, tailwindcss, typescript, webcontainer",Supabase Launch Week 8 Hackathon - A playground to test and refine your JavaScript functions against your   PostgreSQL database.,J,Information and communication,high
+587515829,MiuiSR-Surya,kevins-projects,13,1,,,,J,Information and communication,low
+190072068,GR2MSemiDistr,hllauca,13,2,R,,A package for hydrological modelling with GR2M at large-scale,E,Water supply; sewerage,high
+434071950,pierolescano.com,piero-vic,13,2,Astro,"astro, blog, giscus, tailwindcss",Portfolio and blog website build with Astro and TailwindCSS.,J,Information and communication,high
+881106302,starter-ai-chat,edgefirst-dev,13,0,TypeScript,,A starter repo for an AI chatbot,J,Information and communication,high
+853596657,worker-kv-rate-limit,edgefirst-dev,13,1,TypeScript,,A Rate Limit based on Cloudflare's Worker KV.,J,Information and communication,high
+674691821,ANPR-Arduino,addleonel,13,4,Python,"anpr, arduino-uno, computer-vision", Automatic Number Plate Recognition (ANPR ) using Arduino,H,Transportation and storage,high
+878162236,AI-Views,madmarin,13,0,HTML,,AI-Views is a website that promotes intelligent agents trained to solve sales challenges. The main feature of this project is offering solutions and services related to improving sales through the use of smart agents.,G,Wholesale and retail trade,high
+810130502,consulta-ruc-dni-sunat,madmarin,13,0,TypeScript,,,K,Financial and insurance activities,high
+790007891,TGestiona,madmarin,13,0,PHP,,,J,Information and communication,low
+782147124,history-clinic-system,madmarin,13,0,C#,,,Q,Human health and social work,high
+716942254,Backend-Database-Multiples,madmarin,13,0,Rust,,,J,Information and communication,medium
+352353628,CursoGEE,mastergis,13,16,Jupyter Notebook,,,M,"Professional, scientific activities",medium
+275941209,the-witcher,xtrmdarc,13,5,JavaScript,"arrow-key, shooter-game","In this project, I build a shooter game using JavaScript's framework Phaser 3, a ""fast, free and fun open-source framework for Canvas and WebGL powered browser games"". The Witcher is a slightly different shooter game in which enemies will spawn from the top and the right side of the game canvas. The main character 'Pipoya' fights in the 'Magic Cliff' to prevent monsters to enter her world.",R,"Arts, entertainment and recreation",high
+608946518,azure_speech_recognition_null_safety,jjordanoc,13,20,Swift,"flutter-plugin, speech-to-text",A Flutter plugin that enables interaction with the Azure Cognitive Services Speech-To-Text API,J,Information and communication,high
+579798293,Budget_RailsApp,cmolinan,13,1,Ruby,"css3, javascript, responsive-web-design, ruby-on-rails","The Ruby on Rails Budget App is a mobile web application where you can manage your budget. For that, you have a list of transactions associated with a category, so that you can see how much money you spent and on what.",K,Financial and insurance activities,high
+200296032,PrimalEngine,pieromarini,13,1,C++,"3d-graphics, cpp, cpp20, game-engine, glsl, graphics, sdl3, vulkan, vulkan-engine",C++/Vulkan Game Engine,R,"Arts, entertainment and recreation",high
+889642264,NoteAI,gonzalo-droid,13,3,Kotlin,"android, coroutines-android, flow, hilt, jetpack-compose, kotlin, material-design, mvvm-architecture, openai, room","🤖 Note.AI modern Android development with Jetpack Compose, Hilt, Coroutines, Flow, Jetpack (Room, ViewModel), and Material Design based on MVVM architecture.",J,Information and communication,high
+580597926,protondb-cli,jegj,13,1,JavaScript,"cli, nodejs, protondb",A unofficial CLI for protondb project,J,Information and communication,high
+650705179,solopython_backend,apholdings,12,1,Python,,Backend del sitio solopython,J,Information and communication,high
+637427024,Curso-Hacking-Etico-con-Python,apholdings,12,1,Python,,Material del Curso de Hacking Etico con Python,M,"Professional, scientific activities",high
+1106789763,physical_simulations,jorgemunozl,12,0,Jupyter Notebook,"mathematics, nn, numpy, physics, python, scikit-learn, sympy",A set of physics/mathematics scripts for different concepts.,M,"Professional, scientific activities",high
+627971469,Testing-practice,CarlosIgreda,12,0,JavaScript,"jest, testing","In this exercise, I will write a few practical tests for JavaScript functions using the Jest library. I should make sure I follow the AAA pattern to make my tests easier for other developers to read and understand. I will also try to use the TDD approach in practice.",J,Information and communication,high
+604257701,Hello-Microverse,CarlosIgreda,12,0,HTML,"css, html","In this project, I will set up a ""Hello world"" repository. No complex coding is required for this exercise. My goal here is to master all of the tools and best practices I learned about in previous steps.",J,Information and communication,high
+194755254,Fast-Texforms,ArturoDeza,12,3,MATLAB,,"Code database for Fast Texform generation as proposed in the work of Deza, Chen, Long and Konkle (CCN 2019). ",M,"Professional, scientific activities",high
+692146586,Firestore-example-kmm,carlosgub,12,1,Kotlin,,,J,Information and communication,medium
+880514750,BotWhatsappGPT,macespinoza,12,12,Python,,Bot Whatsapp para GPT ,J,Information and communication,high
+258631199,curso-ticket,JaimeVirrueta,12,5,PHP,,Repositorio del curso del sistema de Ticket con Laravel,J,Information and communication,medium
+271901438,PythonWRF,adelgadop,12,3,Jupyter Notebook,,Process outputs from WRF-Chem,M,"Professional, scientific activities",high
+955509772,boss-gauge-improved,madmarin,12,1,C++,,Minor improvement to the old boss gauge. The health percentage is now displayed in a new design. The shock effect has also been temporarily canceled.,R,"Arts, entertainment and recreation",high
+918787923,log-in-ui,madmarin,12,0,HTML,"html5, tailwind-playground, tailwindcss",Diseño plasmado en codigo html con el framework css tailwind css,J,Information and communication,high
+833696093,RefinedGunz,madmarin,12,0,,,,R,"Arts, entertainment and recreation",high
+464343895,TronMinerV2.5,tudineroweb,12,3,Python,,"Miner Tron Via Consola, termux o cmd",K,Financial and insurance activities,high
+550070216,chats_manager,j05u3,12,3,Dart,"chat-client, firestore, flutter, whatsapp, whatsapp-cloud-api",Display and manage your Whatsapp Cloud API chats.,J,Information and communication,high
+844655237,samgeo-service,GeoCompas,12,3,Python,,,J,Information and communication,low
+592941246,the_future_mobility_backend,cmolinan,12,0,Ruby,"api-rest, postgresql, ruby-on-rails","The Future Mobility Backend is a Ruby on Rails API-only server to manage CRUD of vehicles and reservations in an electric cars website, which also allows the creation of new users and the login through an authentication mechanism. You can test it, using the respective front-end webapp. This full stack challenge was made by a team of four members",H,Transportation and storage,high
+673454658,Curso_Criptomonedas_Ethereum,apholdings,11,0,JavaScript,,Curso de Programacion con Solidity para crear Criptomonedas con Ethereum y Polygon,K,Financial and insurance activities,high
+650706196,solopython_frontend,apholdings,11,1,TypeScript,,Frontend para la pagina web de SoloPython,J,Information and communication,high
+629206973,Riskfolio-FDP-Webinar,dcajasn,11,2,Jupyter Notebook,,"Materials from the Webinar ""How to build better portfolios with Python using Riskfolio-Lib""",K,Financial and insurance activities,high
+1022657614,psiformer_torch,jorgemunozl,11,1,TeX,"attention-mechanism, computational-physics, computational-quantum-mechanics, google-deepmind, kfca, mlp, natural-gradient, quantum-mechanics, torch, training, transformer, wandb, wave-equation-solver",self-attention neural torch ansatz for electronic structure calculations introduced in the paper  “A Self-attention Ansatz for ab initio Quantum Chemistry” from Google Deep Mind.,M,"Professional, scientific activities",high
+262809400,CMIP6-WORLDCLIM-HANDLING,Hydroenvironment,11,6,R,,CMIP6 climate data extraction and treatment by multi-polygon shapefile using ESGF NetCDF and WORLDCLIM datasets,A,"Agriculture, forestry and fishing",high
+256257206,CMIP5-and-Google-Earth-Engine,Hydroenvironment,11,5,JavaScript,"climate-change, climate-data, cmip5","Javascript tools to extract NASA-NEC GDDP Climate change daily data in CMIP5 Phase from 21 General Circulation Models (GCM`s). Available daily precipitation, maximum and minimum °T.",M,"Professional, scientific activities",high
+870442441,hauntedfolio,xavimondev,11,0,TypeScript,"ai, astro, cloudinary","Hauntedfolio 🎃 - generates a fun, creepy portfolio to showcase your top repositories, languages, and bio, enhanced with spooky visuals and mysterious facts.",R,"Arts, entertainment and recreation",high
+175478102,auto-text,defunkydrummer,11,0,Common Lisp,"common, common-lisp, csv, encoding, eol, text","Automatic  (encoding, end of line, column width, etc) detection for text files. 100% Common Lisp.",J,Information and communication,high
+454483131,DeliveryApp,PaulGuillen,11,6,Kotlin,"admin, cardview, client, drawable, kotlin, mercadopago, repartidor, retrofit2, role","An app with a client, admin , delivery rol , so u can managment your data product.",G,Wholesale and retail trade,high
+947475112,crud-routes,edgefirst-dev,11,0,TypeScript,,A helper to create CRUD routes in React Router similar to `resources` in Rails,J,Information and communication,high
+42600608,coordinate,jaime-olivares,11,2,C#,"coordinates, csharp, geolocation, gis, iso, iso6709, latitude, longitude, xml","C# Classes to store, handle, and retrieve geodesic coordinates, in memory, database, and XML, according to the ISO 6709 standard",M,"Professional, scientific activities",high
+1034811211,btech-nest-knowledge-base,madmarin,11,0,TypeScript,"knowledge-base, microservices, nats, nestjs",Microservicio respectivo a la base de conocimiento del sistema de tickets,J,Information and communication,high
+859515633,zodiacle-api,madmarin,11,0,Python,"api-rest, horoscope, tarot, zodiacle","API Para obtener las predicciónes zodiacales del dia, del dia siguiente, semanal y mensual.",R,"Arts, entertainment and recreation",high
+492373532,RickAndMortyApp,EduDev06,11,4,Kotlin,"android, android-clean-architecture, coil-image-loader, coroutines, hilt-compose, hilt-dependency-injection-android, jetpack-compose, kotlin-flows, mvvm-android, retrofit2, viewmodel","RickandMortyApp is an application that get character data from Rick And Morty Api, which is developed with Clean Architecture, Retrofit, MVVM Pattern, Jetpack Compose, Hilt and other useful libraries like Coil and more.",R,"Arts, entertainment and recreation",high
+545055303,Crypto-World,cmolinan,11,0,JavaScript,"api-rest, css3, javascript, reactjs, redux-toolkit, responsive-web-design","Crypto World is a webApp that shows online information, coming from the company CoinGecko, about the hundred most important Cryptocurrencies of the moment, also showing some of their detailed data.​ Built with React & Redux, based on external API.",K,Financial and insurance activities,high
+532660549,Hollywood-Central-project,cmolinan,11,0,,"css3, html5, javascript, responsive-web-design, rest-api","It's a responsive web application based on externals APIs, which randomly displays many TV Shows, Actors and Actresses allowing the user to request details of each one through pop-up windows and give them ""likes"" and comments. Built with HTML, CSS and JavaScript.",R,"Arts, entertainment and recreation",high
+74621813,fmovies,pieromarini,11,2,JavaScript,,Scraper for fmovies,R,"Arts, entertainment and recreation",high
+789707,django-generic-images,soad241,11,1,Python,,github clone of http://pypi.python.org/pypi/django-generic-images/0.36.1,J,Information and communication,high
+394149476,Payload_generator,Gabrieltec123,11,1,JavaScript,"anonytun, http-custom, http-injector, internet-gratis, kpn-tunnel, netfree, stark-vpn, tls-tunnel, vpns, youtube",Sirve para ver las peticiones entre el navegador y el servidor pero en el caso del internet gratis a través de vpn también los puede ayudar muchísimo .,J,Information and communication,high
+718313962,apuntes-inventarios-react,Franklin369,10,5,JavaScript,,,G,Wholesale and retail trade,medium
+511986682,Snowflake-StudyClub,DataEngineering-LATAM,10,0,,"analytics, data-analysis, data-analytics, data-engineering, data-science, snowflake",Grupo de estudios de Snowflake organizado por la comunidad Data Engineering Latam,M,"Professional, scientific activities",high
+484716515,wpsoffice,CodigoCristo,10,3,HTML,,MUI + DICTS,J,Information and communication,medium
+487621567,RedTeaming,Open-Sec,10,6,,,,O,Public administration and defense,medium
+635176129,Leaflet.MeasurePolygon,olanaso,10,1,JavaScript,,,F,Construction,medium
+237062465,LRP-Steal,karenciita,10,8,Lua,,This was designed to enhance the role of theft.  It was created by Shinxd and Karen for LatamRP.,R,"Arts, entertainment and recreation",high
+62957823,htmlService-get-set-data,zmandel,10,2,JavaScript,,for Google Apps Script HtmlService. Set and get a data object on an htmlOutput,J,Information and communication,high
+136384505,gddownloader,d4n3436,10,2,AutoHotkey,"ahk, autohotkey, geometry-dash, newgrounds",A script for downloading Newgrounds banned songs.,R,"Arts, entertainment and recreation",high
+860544770,Data-Mining-UNAM,haroldeustaquio,10,2,Jupyter Notebook,"apriori-algorithm, arima-model, association-algorithm, association-rules, classification, clustering, decision-tree-classifier, fp-growth-algorithm, logistic-regression, machine-learning, mineria-de-datos, neural-network, regression-models, rnn, seq-to-seq, seq2seq, triple-exponential-smoothing, unam","This repository showcases projects from the Data Mining course at UNAM, Mexico. It includes analyses of customer behavior, sales transactions, and a sequence-to-sequence model for text generation based on the Harry Potter series, all developed and presented throughout the semester.",M,"Professional, scientific activities",high
+856634412,SQL-Coding-Challenges,haroldeustaquio,10,1,TSQL,"challenge, data-analysis, database, hackerrank-solutions, mysql, query, sql, sqlite, t-sql-exercises","This repository contains SQL problems from HackerRank, DataLemur and other challenges. Contains solutions to improve skills in database querying, optimization, and data manipulation.",J,Information and communication,high
+1037505615,btech-rust-microservice-cache,madmarin,10,0,TypeScript,"cache, microservice, package, rust",Caché memory para microservicios creados con Rust,J,Information and communication,high
+1037047390,btech-cpp-metrics-service,madmarin,10,0,C++,,,J,Information and communication,low
+1034239082,martinez-react-frontend,madmarin,10,0,TypeScript,,Frontend para gestionar el sistema de ferretería de la Ferretería Martínez,G,Wholesale and retail trade,high
+933882078,github-portfolio,madmarin,10,0,TypeScript,"react, tailwindcss, typescript",A personal portfolio template same github,J,Information and communication,high
+18576506,Menus-con-HTML5-y-CSS3,henrychavez,10,8,CSS,,Distintos estilos de Menús con html5 y css3 para que puedan emplear en sus proyectos,J,Information and communication,high
+488048515,zig-wefx,daneelsan,10,1,Zig,"gfx, html5-canvas, javascript, wasm, zig","WEFX is a simple graphics drawing package using Zig, WASM, and an HTML canvas.",J,Information and communication,high
+261029872,node-microservices-template,ldiego73,10,2,TypeScript,"cqrs, ddd, domain-driven-design, event-sourcing, microservices, node, nodejs, typescript","Node Microservices Template using Driven Design Domain (DDD), CQRS and Event Sourcing",J,Information and communication,high
+330157687,translations,helpdesk-z,10,18,PHP,,Translations for HelpDeskZ 2,J,Information and communication,high
+480254152,EsBTCv3,tudineroweb,10,7,Python,,New Version Hack script For mining ESCOIN free,K,Financial and insurance activities,high
+1018125626,jakarta-ee-developer-full-path,apuntesdejava,10,1,Java,"glassfish, jakartaee, jakartaee11, java, payara, payara-server",Documentación de Jakarta EE con Payara y GlassFish: El Camino Completo del Desarrollador Moderno,J,Information and communication,high
+428063284,PSWebSearch,JuanOrbegoso,10,0,PowerShell,"console, powershell, powershell-module, terminal, web-search","PowerShell module that adds aliases to search with Bing, Google, YouTube, GitHub, and other popular services from the PowerShell console to launch the web browser without actually using the mouse.",J,Information and communication,high
+421192556,wish-list-api,JuanOrbegoso,10,1,TypeScript,"access-token, authentication, clean-architecture, ddd, docker, jest, mikroorm, mongodb, nestjs, refresh-token, repository-pattern, swagger, unit-of-work-pattern",Backend API built with NestJS using Domain-Driven Design and Clean Architecture.,G,Wholesale and retail trade,medium
+666261217,filament-saas,aldriguz,10,7,PHP,"admin, filamentphp, laravel, multitenancy, single-database, tenancy-for-laravel",Filament admin multi tenancy single DB demo ,J,Information and communication,high
+232239771,java-tcs-202001,gcquirozguzman,10,4,,,Taller de Java TCS,P,Education,high
+543831299,SpaceHub,cmolinan,10,0,,"css3, reactjs, redux-toolkit, responsive-web-design, rest-api","It'a responsive web application for a company that provides commercial and scientific space travel services. The application allow users to book rockets and join selected space missions, working with real live data from the SpaceX API.  Built with React & Redux.",H,Transportation and storage,high
+552195401,portfolio,yupanquiah,10,0,Astro,"astro, css, html, javascript, tailwindcss",This is my portfolio,J,Information and communication,high
+922423824,auth-alpaca,rogelioolarte,10,5,Java,"jwt, multiple-authentication, oauth2, register-login, security, spring, spring-boot",Spring Boot App that focuses on implementing multiple authentication methods using OAuhth2 and JWT.,J,Information and communication,high
+580827343,IWSLT2023_Quechua_data,Llamacha,10,0,JavaScript,,,P,Education,medium
+1231080,django-endless-pagination,soad241,10,1,Python,,django-endless-pagination github clone,J,Information and communication,high
+791523,django-annoying,soad241,10,3,,,django annoying,J,Information and communication,high
+791338,django-messages,soad241,10,2,Python,,django messages clone on github,J,Information and communication,high
+637421720,Curso_Inteligencia_Artificial_Ejercicios_Avanzados,apholdings,9,4,Python,,Recursos del curso de inteligencia artificial ejercicios avanzados,P,Education,high
+809560649,126_ANGULAR17_AUTHENTICATION_JWT,CodigoEstudiante,9,2,TypeScript,,,J,Information and communication,high
+785395898,120_Angular17CRUDconWebAPINET8,CodigoEstudiante,9,2,C#,,,J,Information and communication,medium
+1027281331,summerSchool_OperatorLearning_UNT,jorgemunozl,9,1,Jupyter Notebook,,,P,Education,high
+1026265430,arch-nvim-latex,jorgemunozl,9,1,Lua,"archlinux, late, latex, nvim, nvim-plugin, vimtex",Automated setup for Vim + LaTeX on Arch Linux. Provides preconfigured installation profiles (light / medium / full) with sane defaults. Zero manual tweaking required after install and even debug.,M,"Professional, scientific activities",high
+554915039,pecc_d4,PCPUNMSM,9,2,Jupyter Notebook,,,J,Information and communication,low
+86495939,ohexperimentsmachine,rafaesc,9,1,Vue,,Oliver Heldens Experiments Machine is a non-commercial and unofficial game,R,"Arts, entertainment and recreation",high
+21548132,python-easyxsd,gnrfan,9,8,Python,,Easy XML Schema Definition (XSD) validation of XML documents,M,"Professional, scientific activities",medium
+487617295,Pentesting,Open-Sec,9,5,,,,J,Information and communication,high
+593351354,boostgrammar.io,xavimondev,9,0,TypeScript,"astro, cloudfare, fastify, midudev-cohere-2023, preact, railway, supabase, tailwindcss",Platform to improve your grammar and become an expert in English.,P,Education,high
+679364046,PiggyBank,carlosgub,9,2,Kotlin,"kmp, kotlin-multiplatform, mvi, mvi-architecture, open-source, orbit-mvi, orbit-mvi-testing, orbit-testing, sqldelight, testing, turbine, unit-testing",Finance App to control your finances,K,Financial and insurance activities,high
+169100843,spinneret-vue,defunkydrummer,9,0,Common Lisp,"common-lisp, lisp, vue",Patches spinneret for working with vue.js components and the like.,J,Information and communication,high
+838434087,BlagBox,atejada,9,1,Python,,"The ultimate Email, Calendar and Contacts Terminal Client",J,Information and communication,high
+442657635,zphisher,NextKool,9,9,Hack,,Una herramienta de phishing automatizada con más de 30 plantillas. ¡Esta herramienta está hecha solo con fines educativos! ¡El autor no será responsable por el mal uso de este kit de herramientas!,J,Information and communication,high
+964031882,Ames-Housing-Price-Predictor,haroldeustaquio,9,0,Jupyter Notebook,"ames-housing-dataset, docker, gcp, machine-learning, prediction-model, python","Ames Housing Price Predictor is an ML project focused on predicting housing prices in Ames, Iowa. Development spans all stages of the machine learning model lifecycle, from data exploration and cleansing, through feature engineering and model selection, to deploying a working API using FastAPI, Docker, and GCP.",L,Real estate activities,high
+926540026,SocialNet-Graphs,haroldeustaquio,9,1,Python,,"This project generates synthetic social network data and applies graph theory to analyze relationships and interactions. It includes synthetic tables for tweets, users, and interactions, a directed graph for user interactions with key metrics, and a bipartite graph linking tweets to hashtags.",J,Information and communication,high
+876588229,Artificial-Intelligence-UNAM,haroldeustaquio,9,1,Jupyter Notebook,"adversarial-search, artificial-intelligence, fuzzy, fuzzy-logic, intelligent-agent, unam","This repository contains projects and exercises developed during the Artificial Intelligence course at UNAM. It covers topics such as fuzzy logic, adversarial search algorithms, intelligent agents, and more.",M,"Professional, scientific activities",high
+828456681,Python-Coding-Challenges,haroldeustaquio,9,0,Jupyter Notebook,"challenge, data-processing, data-structures, datalemur, leetcode, pandas, python","Repository dedicated to solving Python problems from LeetCode, DataLemur and other programming challenges. Contains solutions implemented in Python to improve skills in algorithms and data structures.",M,"Professional, scientific activities",high
+587368415,tinylisp,daneelsan,9,1,Zig,"html, javascript, lisp, wasm, zig","A web-based Lisp interpreter with a ""terminal"" interface",J,Information and communication,high
+74166750,express-ejs-extend,bryanjhv,9,4,JavaScript,"ejs, express-middleware, nodejs",Layouts support for EJS templates in Express 3+.,J,Information and communication,high
+263535964,google_maps_marker_center,edwinmacalopu,9,8,Dart,,":earth_americas:  :mag_right:  :triangular_flag_on_post: geolocation and address of place, also move the marker in the center with google maps in flutter.",I,Accommodation and food services,medium
+454038631,WhatsApp-messages-bulk-sending,braulio-arteaga,9,1,Jupyter Notebook,,Python notebook allows send bulk whatsapp messages to contacts (not necessarily saved) using an excel file and the selenium package. It also produces a final report on the sending status of the messages.,G,Wholesale and retail trade,high
+588417634,stargus,bercode21,9,2,HTML,,stargus - Restaurant Website,I,Accommodation and food services,high
+862415,whoosh,soad241,9,0,Python,,github whoosh clone,J,Information and communication,high
+790866709,happybirthdayboladenieve,mabelolivera10,8,0,CSS,,,R,"Arts, entertainment and recreation",medium
+814956439,127_Sistema_Venta_CSharp_SQLite,CodigoEstudiante,8,3,C#,,,G,Wholesale and retail trade,high
+433863286,android-developer-notes,emedinaa,8,1,,,android developer notes,J,Information and communication,high
+677630972,Raxer,BracoZS,8,1,C#,"customize, mouse, mouse-buttons, remap, swap-mouse-buttons, windows-10, windows-11",Application to customize and remap mouse buttons to other buttons or functions based on user-defined settings. Useful for adapting mouse behavior to specific workflows.,J,Information and communication,high
+1023263408,Finetunning-Llama-Vision-11b,jorgemunozl,8,1,Python,"bench, fine-tuning, llama, lora, mermaid, mermaid-diagrams, vision, vllm","Inference and finnetunning of a VLM (LLama Vision 11b) using the Unsloth, PEFT libraries and torch.",M,"Professional, scientific activities",high
+1005857276,Synthetic-Data,jorgemunozl,8,0,Python,"ai, artificial-intelligence, async, data-generation, flowchart, langchain, langgraph, llm, mermaid, python, syntetic-dataset, synthetic-data, workflow-automation","Agentic -powered synthetic data generator that creates flowcharts using LangGraph orchestration. Features FastAPI integration, OpenAI LLM processing, and automated Mermaid diagram generation.",M,"Professional, scientific activities",high
+973458061,deepLearning_lectures,jorgemunozl,8,1,Jupyter Notebook,"cuda, deep-learning, educational-project, gpu, llm, notebook, torch, transformers, vit",A educational set of notebooks on Deep Learning,P,Education,high
+1004921795,whatsapp-group-link-checker-by-wajahat-ali-mir,wajahat-ali-mir-dev,8,0,Python,,"🚀 A powerful Python-based WhatsApp Group Link Checker by Wajahat Ali Mir. This tool scans, verifies, and filters WhatsApp invite links, helping users manage active group links efficiently.",J,Information and communication,high
+797001844,NETWebDeveloper2024-fundamentos,erickorlando,8,1,C#,,Repositorio del curso de ASP.NET 8 WEB DEVELOPER - MODULO DE FUNDAMENTOS DE PROGRAMACION,P,Education,high
+321149735,crisparch,CodigoCristo,8,0,Shell,,Script instalar arch para usuarios,J,Information and communication,high
+236139003,summer-school-2020,PCPUNMSM,8,4,HTML,,Summer School developed at South America Summer 2020,P,Education,high
+21368293,dotfiles,CoreyKaylor,8,3,Lua,,,J,Information and communication,high
+642124332,jobsia,xavimondev,8,1,TypeScript,"infojobs-hackathon, nextjs, openai, radix-ui, speech-recognition, supabase, tailwindcss, tremor",Es una plataforma web con búsqueda avanzada de trabajo en la que podrás ser entrevistado(a) por un asistente de inteligencia artificial usando reconocimiento de voz.,N,Administrative and support activities,high
+692622708,carlosgub.dev,carlosgub,8,0,HTML,"kobweb, kotlin, multiplatform",Personal website using kobweb,J,Information and communication,high
+826506713,Python_0_to_hero,JulianB0315,8,0,Python,"pip, practice-project, python","Repositorio colaborativo para estudiar y practicar Python💪💻👾. Aquí encontrarás ejercicios, ejemplos de código, proyectos y recursos útiles para mejorar nuestras habilidades en Python📚📚.",P,Education,high
+530860116,mappingForestDisturbances,ytarazona,8,1,Jupyter Notebook,,Detecting forest disturbances using Sentinel-1 through a non-seasonal detection approach based on time series,A,"Agriculture, forestry and fishing",high
+88781252,propuestas-meetup,Android-Dev-Peru,8,3,,,Manda tu propuesta para una charla o workshop en la pestaña Issues,P,Education,medium
+214849529,kennyhorna-blog,kennyhorna,8,3,CSS,"blog, jigsaw, php, static-site",My personal blog.,J,Information and communication,high
+661889412,f1-next-app,lordksix,8,0,TypeScript,"focus-trap, framer-motion, mongodb, nextjs, radix-ui, react-hook-form, reactjs, tailwindcss, typescript","Web application where the user can check all information about Formula 1. This app is written using Tailswind, NextJS, ReactJS and Typescript",R,"Arts, entertainment and recreation",high
+418597369,awesome-books,piero-vic,8,1,JavaScript,"css, html, javascript, microverse",📖 Awesome books project for Microverse. Built using plain JavaScript.,P,Education,high
+431164798,watermelondb-server-prisma,jhonatanmacazana,8,3,TypeScript,,Server to allow synchronization of watermelonDB instances with Prisma and Express.,J,Information and communication,high
+291428938,JS-Shooter-Game,sergiomauz,8,1,JavaScript,"es6, nodejs, phaser3, shooting-game, webpack","It is a shooting videogame, developed using ES6 and Phaser3 and inspired by Starcraft characters.",R,"Arts, entertainment and recreation",high
+56947961,Ionic2Pokedex,android-sos,8,3,JavaScript,,Ionic 2 Pokedex,R,"Arts, entertainment and recreation",high
+872548504,email,edgefirst-dev,8,0,TypeScript,,An Email object useful to work with email addresses,J,Information and communication,high
+872113789,api-client,edgefirst-dev,8,0,TypeScript,,A basic HTTP client for making API requests,J,Information and communication,high
+661745052,Awesome-Books,JuanDiegoGuerra,8,0,JavaScript,,"""Awesome books"" is a simple website that displays a list of books and allows you to add and remove books from that list. By building this application, you will learn how to manage data using JavaScript. Thanks to that your website will be more interactive. You will also use a medium-fidelity wireframe to build the UI.",J,Information and communication,high
+644042938,Module_2-Capstone,JuanDiegoGuerra,8,1,JavaScript,,The JavaScript capstone project is about building your own web application based on an external API.,J,Information and communication,high
+634799891,revanced-integrations,d4n3436,8,1,Java,,🔩 Integrations containing helper classes for ReVanced. Originally maintained by Vanced.,J,Information and communication,high
+160733432,R-Ladies-Lima-rmarkdown,VilmaRomero,8,3,HTML,"ggplot2, leaflet, plotly, rmarkdown",Taller de R Markdown preparado para R-Ladies Lima,M,"Professional, scientific activities",high
+93784353,tesis_csunsa,larc,8,0,TeX,,template thesis cs-unsa,P,Education,high
+954385498,Pima-Diabetes-Prediction,haroldeustaquio,8,0,Jupyter Notebook,"api, aws, classification, deployment, docker, docker-container, docker-image, elasticbeanstalk, fastapi, machine-learning, pima-diabetes-data","This project implements a complete machine learning pipeline to predict diabetes risk using the Pima Indians dataset. It covers data preprocessing, model building, validation, optimization, and deployment via a FastAPI-based API.",Q,Human health and social work,high
+882536518,Analysis-of-Oncological-Diseases-in-Peru,haroldeustaquio,8,0,R,"analysis, data, diseases, powerbi, r, sql, sqlite","This repository presents an analysis of care related to the 7 most frequent cancers in 2022, compiling open data provided by FISSAL. This report includes a breakdown of consultations by department, a patient profile by age, insurance and sex, as well as the most requested types of services. The findings are complemented by an interactive dashboard",Q,Human health and social work,high
+870897795,Web-Scraping-with-Python,haroldeustaquio,8,0,Jupyter Notebook,,,M,"Professional, scientific activities",medium
+774752087,Air-Quality-Analysis-in-Lima,haroldeustaquio,8,1,Python,"aws, aws-ec2, aws-lambda, aws-rds, data-visualization, powerbi, python, rds-mysql","The Air Quality Analysis in Lima project aims to collect, analyze and visualize air quality data in the city of Lima, Peru. We will use API to obtain real-time data from https://waqi.info/",D,"Electricity, gas, steam supply",medium
+468394227,rocket-dokku,marcomnrq,8,1,TypeScript,"adonisjs, dokku, javascript, node-ssh, nodejs, typescript",🚀 Fully Featured Open Source Admin Dashboard for Dokku,J,Information and communication,high
+456724684,Tip-calculator,Kakalanp,8,0,JavaScript,"calculator, css, html, javascript, node, tip-calculator, webpack","This is a calculator for paying a bill; using HTML, CSS, JavaScript, and Webpack; you can divide a bill and a percental tip with many people.",I,Accommodation and food services,high
+395077484,Curso_GEE_con_JavaScript,mastergis,8,6,JavaScript,,,M,"Professional, scientific activities",medium
+527094820,ajatt,Rotvie,8,1,Lua,"ahk, ajatt, anki, mpv",My personal setup and resources for AJATT,P,Education,high
+1006898139,sql-to-go,giancarlosisasi,8,0,Go,,This tool is designed to generate Go structs from a PostgreSQL database schema. It can generate either a single `models.go` file with all structs or separate files for each table.,J,Information and communication,high
+499890691,TRG-net,rodp63,8,0,Python,"faster-rcnn, gmm, lightweight, motion-detection, object-detection",A Lightweight Gaussian-Based Model for Fast Detection and Classification of Moving Objects,M,"Professional, scientific activities",high
+723992533,sahi_batched,dceluis,8,0,Python,,Sahi batched inference (Yolov8 only),M,"Professional, scientific activities",medium
+61784289,Odontograma_PHP_MYSQL,cucarach0n,8,15,PHP,,,Q,Human health and social work,high
+574674389,etl-houseslima-properati,SebasMBK,8,1,Python,,,L,Real estate activities,high
+4575191,Whatsadd,Dvex,8,7,PHP,,Trabajo Whatsadd ,J,Information and communication,low
+399421805,QuBERT,Llamacha,8,3,Jupyter Notebook,"language-model, low-resource-languages, quechua, roberta-model",,M,"Professional, scientific activities",high
+637425991,Curso_Introduccion_a_Inteligencia_Artificial,apholdings,7,0,Python,,Curso de introduccion a la integelincia artificial con python,P,Education,high
+815568271,128_Sistema_Prestamo_CSharp_SQLite,CodigoEstudiante,7,4,C#,,,K,Financial and insurance activities,high
+834357963,GlobalHotKeysRX,BracoZS,7,2,C#,"csharp, desktop, global, hotkeys, net8, windowless, windows, wpf",Simple C#  Library for creating global hotkeys.,J,Information and communication,high
+1026265931,syncZ,jorgemunozl,7,1,Python,"auto-delete, bidirectional, ethernet-ip, lan, local, pdf, python, python-cli, sync, synchronization, zotero, zotero-sync","File sync tool with bidirectional sync, PDF search integration. handwritten with Okular supports Ubuntu and Arch, (If you have a ton of papers use it!)",J,Information and communication,high
+1022651956,jorgemunozl.github.io,jorgemunozl,7,0,TypeScript,"github, githubio, nodejs, react, reactjs",My Blog and personal website,J,Information and communication,high
+1009722198,jorgemunozl,jorgemunozl,7,0,,"readme, readme-md, readme-profile",My README,J,Information and communication,high
+1002202704,vla-test,jorgemunozl,7,0,Jupyter Notebook,"docs, huggingface, jupyter-notebook, lerobot, robotics, tokenizer, transformer, vision, vit","Documentation of my tests, experiments and debuggin for improve Vision Language Action Models for NONHUMAN Research robots",M,"Professional, scientific activities",high
+947569708,HeatEquationPINN,jorgemunozl,7,0,Python,"neural, physics, python, pytorch, scientific-computing",An implementation of a Physics-Informed Neural Network (PINN) for solving the heat equation subject to zero Neumann boundary conditions.,M,"Professional, scientific activities",high
+474390173,Progra-2-2022-1,JoseMascaros,7,9,C++,,Weekly classes repository 2022-1,P,Education,high
+453501972,AWS-StudyClub,DataEngineering-LATAM,7,2,Python,,,J,Information and communication,medium
+718908456,PortalGalaxyBlazor,erickorlando,7,3,C#,,Curso de Aplicaciones Empresariales ASP.NET 7,J,Information and communication,high
+882086279,coexisting-vue-2-vue-3-in-large-apps,jhony-v,7,0,,"frontend, javascript, microfrontend, typescript, vue",Coexisting Vue 2 and Vue 3 in Large-Scale Applications,J,Information and communication,high
+205491400,quantum-mechanics,PCPUNMSM,7,3,Jupyter Notebook,,Materiales sobre Mecánica Cuántica del Club de Python para Físicos,M,"Professional, scientific activities",high
+495183967,Machine-Learning-Program,john-caballero,7,13,Jupyter Notebook,,This is a scripts repository used on my machine learning program.,M,"Professional, scientific activities",medium
+34227854,virality,ArturoDeza,7,2,Matlab,,Virality Dataset of the CVPR'15 paper,M,"Professional, scientific activities",high
+142117836,Probability-Distributions-for-hydrology-with-R,GeomarPerales,7,0,R,"hydrology, hydrology-statistical, imf, statistical, unmsm",scripts developed for course of statistical hydrology - IMF - UNMSM.,E,Water supply; sewerage,high
+140155957,Probability-Distributions-for-hydrology-with-Python,GeomarPerales,7,2,Python,"hydrology, hydrology-statistical, imf, statistical, unmsm",scripts developed for statistical hydrology - IMF - UNMSM.,E,Water supply; sewerage,high
+783086530,fs-emmet,xavimondev,7,0,TypeScript,"astro, files, folders, typescript, vscode-extension",A VSCode extension that helps you create folders and files with ease from your editor.,J,Information and communication,high
+611336208,whatis.dev,xavimondev,7,0,Svelte,"astro, lookup-terms, svelte, tailwiindcss, vercel",Look up essential programming terms and master your vocabulary of programming.,J,Information and communication,high
+751535946,website-kotlin,Android-Dev-Peru,7,0,HTML,,"Web de la comunidad, hecha con Compose (Kobweb)",J,Information and communication,medium
+376412438,excel-exercises,javierayalar,7,0,,"dashboard, excel, pivot-tables, power-query","📋 📊 Excel exercises using Power Query, Pivot Tables and Dashboards. ",M,"Professional, scientific activities",high
+812432053,timeline-jira-google-sheets,zmandel,7,1,JavaScript,,Create awesome Jira timelines for multiple projects in Google sheets,J,Information and communication,high
+517158095,Danna,dannxvc,7,1,JavaScript,"css, portfolio, react, reactjs",My personal portfolio to display necessary information about me.,J,Information and communication,high
+704000227,Test-driven_development,JuanDiegoGuerra,7,2,Ruby,,"In this project you will implement a class with some methods, but you will do it by doing test-driven development (TDD). Remember that the idea is to write tests first and then the code. This will be verified in your commits history, so it is important to use the proper sequence.",M,"Professional, scientific activities",high
+701102783,OOP-School-Library,JuanDiegoGuerra,7,0,Ruby,,"Imagine that you are the librarian of OOP University, and you need a tool to record what books are in the library and who borrows them.",P,Education,high
+688324986,ReactCapstoneProject_MetricsWebapp,JuanDiegoGuerra,7,0,JavaScript,,This React capstone project is about building a mobile web application to check a list of metrics (numeric values) that you will create making use of React and Redux.,J,Information and communication,high
+442600163,Spiderfoot,NextKool,7,2,Python,,SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.,J,Information and communication,high
+750563307,Snavanced,Alessandrito123,7,2,JavaScript,,Snavanced! is a Snap! mod that includes more features for it to create projects efficiently.,P,Education,high
+1103519897,chat-auto-translated-gunz,madmarin,7,0,C++,,Real-time chat translation using language prefixes and the MyMemory API.,J,Information and communication,high
+878986314,claude_ui_shortcuts,A-PachecoT,7,3,JavaScript,,Chrome extension that add keyboard shortcuts to Claude IDE similar to ChatGPT,J,Information and communication,high
+605871323,myself,minskylab,7,2,Rust,"ai, chatgpt, gpt-3, openapi, rust, rust-library","Myself is a Rust library for building conversational agents powered by LLM technology , providing a simple Agent abstraction to manage interactions and memory. It's like a engine to create LLM Powered Apps.",J,Information and communication,high
+356989921,login-animado-monster,gcancho,7,3,JavaScript,,Login animado,J,Information and communication,medium
+625534425,auth_microservice,boomslag,7,4,Python,,Boomslag authentication microservice,J,Information and communication,high
+694861119,cleverclient,sashirestela,7,1,Java,"api-rest, client, http, httpclient, java, okhttp, okhttpclient, rest, restclient, websocket, websocket-client",A Java library for making http client and websocket requests easily.,J,Information and communication,high
+440375597,vite-react-starter,Luiggi370z,7,7,TypeScript,"eslint, jest, prettier, react, react-hooks, react-query, react-router, tailwindcss, typescript, vitejs","Starter kit for ReactJS using ViteJS, TS, Tailwind, Jest, ESLint and more. Includes best practices for folder structure, implementation and examples",J,Information and communication,high
+134331503,kubernetes-task-runner,ivoscc,7,1,Python,,Provides an API to launch one-time tasks as Jobs on a Kubernetes cluster.,J,Information and communication,high
+410453874,fnf-vs-selever-mod,DragShot,7,13,Haxe,"fnf, haxe, lua, mod",Source code used in Friday Night Funkin': VS Selever,R,"Arts, entertainment and recreation",high
+669335806,alura-elements,victorlunam,7,1,JavaScript,"jsx, swc, transpiler",Una implementación basica de JSX,J,Information and communication,high
+308973225,Xtree,rodp63,7,1,C++,"data-structures, dimensional-data, nearest-neighbors, tree",X-tree data structure in c++ for high dimensional data indexing,M,"Professional, scientific activities",high
+129785099,generatingBabyNames,jwilliamn,7,2,Python,,Generating baby names using RNNs,R,"Arts, entertainment and recreation",medium
+466819830,nodejs-learning-path-api-using-koa-workshop,jriverox,7,2,JavaScript,"api-rest, koa, mongodb, nodejs",Workshop contruyendo una API Rest con Node.js + Koa.js,J,Information and communication,high
+419073469,crud_php_mysql_android-studio,guerrerosystem,7,0,Java,,codigo de crud php mysql,J,Information and communication,high
+603280960,challengeoneconversorlatam4,arkezam,7,0,Java,challengeoneconversorlatam4,Conversor de divisas | Alura - One ,K,Financial and insurance activities,high
+771036846,lima-code-102d1,entertechschool,7,0,HTML,,Repositorio del curso Code 102 | Enter Tech School | 11 de Marzo de 2024,P,Education,high
+246981300,django-db-settings,oscargdi,7,2,Python,,Django plugin to handle settings as cacheable objects to configure your application,J,Information and communication,high
+338930650,Flutter_Example_With_Nodejs_BackEnd,williamscafdev,7,6,Dart,,Ejemplo base de estructura GetX con Getx_Pattern ,J,Information and communication,high
+1093015993,Strategies-in-Pine-Script-v6,JoelPasapera,7,1,,"bot, pinescript, strategy, trading, tradingview","A collection of trading strategies written in Pine Script, each designed to capture consistent intraday and swing opportunities across metals, forex, and equities.",K,Financial and insurance activities,high
+887377325,ExpertAdvisory,JoelPasapera,7,1,Python,"algorithms, backtesting, benchmark, plotly, polars, python, trading",Perform backtesting of xauusd trading strategies from 2009 to 2023 in 30 seconds using python.,K,Financial and insurance activities,high
+815266,django-audio-video,soad241,7,1,Python,,Django audio video,J,Information and communication,medium
+789689,django-photo-albums,soad241,7,0,,,a git hub clone of http://bitbucket.org/kmike/django-photo-albums,R,"Arts, entertainment and recreation",medium
+48618769,PannablePickerView,cruzdiego,7,1,Swift,,Custom picker view inspired by Rise (http://rise.simplebots.co) and Timely (https://timelyapp.com) apps ,J,Information and communication,high
+641047231,Curso_IoT_RaspberryPi_Basico,apholdings,6,4,Python,,Curso de Internet de las Cosas con Raspberry Pi y Python,J,Information and communication,high
+637425003,Chatbots_con_Inteligencia_Artificial,apholdings,6,0,Python,,Curso de como crear un chatbot ccon inteligencia artificial,J,Information and communication,high
+637424575,Curso_Inteligencia_Artificial_para_Negocios,apholdings,6,0,Python,,Como usaar algoritmos de inteligencia artificial en negocios.,K,Financial and insurance activities,medium
+635869106,python-post-quantum-cryptography,apholdings,6,1,Python,,Post-Quantum Cryptography implementation of the NTRU algorithm using python.,K,Financial and insurance activities,high
+635528979,frontend,apholdings,6,3,JavaScript,,,J,Information and communication,low
+855801930,135_CursoSistemaVenta_WinFormNet8,CodigoEstudiante,6,2,TSQL,,,G,Wholesale and retail trade,medium
+803580537,124_NET8WEBAPI_AUTENTICACION_JWT,CodigoEstudiante,6,1,C#,,,J,Information and communication,high
+779786857,091_CURSOVENTASANGULAR_SCRIPTS,CodigoEstudiante,6,0,,,,G,Wholesale and retail trade,medium
+841688666,small-projects-with-react,gustarting,6,0,,,"After analyzing for 14 months around ~500k frontend job offers, we found that React is the most demanded frontend framework with a total of 225k job offers counted. Angular sits in second place, with a total of 172k offers. In third position we found Vue, with 48k offers.",J,Information and communication,high
+1026234217,input-leap-computer,jorgemunozl,6,0,Shell,"archlinux, input-leap, shell-script","Input leap setup for ethernet displays, the idea is avoid akward configuration.",J,Information and communication,high
+1026190668,arch-i3-setup,jorgemunozl,6,0,Shell,"arch, bash, i3, linux, linux-kernel, set, windows-manager","A seameasly setup to install the windows manager I3 on a Arch Linux Distribution, and even supports errors, (the ones which I struggled with)",J,Information and communication,high
+405822695,PERSONAL_SoapService,Anders87x,6,3,PHP,,Ejemplo,J,Information and communication,low
+584994925,my_map_prompt_monday,jmcastagnetto,6,1,R,,Maps following the #MapPromptMonday social mapping prompts,R,"Arts, entertainment and recreation",medium
+492563895,nextjs-net60,jesulink2514,6,2,TypeScript,,,J,Information and communication,high
+268208804,instalarch,CodigoCristo,6,1,C,,,J,Information and communication,low
+205895642,NetCDF-data-treatment,Hydroenvironment,6,4,R,,Helpful tools to handle multidimensional NetCDF data,M,"Professional, scientific activities",high
+204616595,mathematical-physics,PCPUNMSM,6,1,Jupyter Notebook,,Materiales sobre Física Matemática del Club de Python para Físicos,M,"Professional, scientific activities",high
+586716251,textscan.app,xavimondev,6,0,TypeScript,"google-vision-api, nextjs, ocr, ocr-recognition, ocr-text-reader, react, tailwindcss, typescript",Web app that detects and extracts text from any image using OCR,J,Information and communication,high
+973980001,agentui-withlogin,macespinoza,6,4,TypeScript,"ai-frontend, api-integration, authentication, cloud-run, frontend, gcp, google-auth, llm-agent, nextauth, nextjs, typescript, vercel","Production-ready frontend with Google login, built using Next.js and integrated with a Cloud Run. This project is part of the GCP AI Agent Starter Kit workshop and provides a clean, customizable interface to connect conversational agents to intelligent backend services. Ideal for developers looking for a practical, reusable starting point",J,Information and communication,high
+744788385,ADPMeetUps,Android-Dev-Peru,6,1,Kotlin,"android, compose-multiplatform, ios, kotlin-multiplatform",Open source Compose Multiplatform app from the Android Dev Perú community.,J,Information and communication,high
+723716863,manual-buen-organizer,Android-Dev-Peru,6,0,,,Manual del buen organizador,S,Other service activities,low
+246431691,LRP-MedicalRole,karenciita,6,10,Lua,,"The ""LRP-MedicalRole"" is a modified version of ""Esx_ambulancejob"" where the status of ""dead"" will become ""injured.""",Q,Human health and social work,high
+236676554,LRP-fastfood,karenciita,6,3,Lua,,Fast food work adapted with inventoryhud and sound,I,Accommodation and food services,high
+391502351,Databricks-academy,DanielEdu,6,4,,,,P,Education,high
+129490192,ns-restlet-gs-sync,felipechang,6,2,JavaScript,,Sync NetSuite saved search results to a Google Spreadsheet.,K,Financial and insurance activities,medium
+641978264,chatgpt-flex-ui,hebertdev,6,2,TypeScript,"material-ui, openai, react, typescript, vite",ChatGPT-Flex-UI es una interfaz moderna y adaptable para la API de Chat GPT,J,Information and communication,high
+445745268,Android-Jetpack-Compose-Room--Retrofit---MVVM--Hilt--REST-API--SQLite,JosueDurand96,6,2,Kotlin,,,J,Information and communication,high
+517721437,cmp-ledger,piero-vic,6,3,Lua,"accounting, ledger, neovim-plugin, nvim-cmp",nvim-cmp source for ledger accounts,K,Financial and insurance activities,high
+430019043,ptd,piero-vic,6,0,Python,"cli, python, todo",A minimal to-do list application for the command line.,J,Information and communication,high
+428740308,gun-relay,jhonatanmacazana,6,0,Dockerfile,,Gun server with NodeJS,J,Information and communication,high
+162452493,2018-2-Testing,Danielalab,6,22,JavaScript,,,J,Information and communication,low
+1121824481,minuta-genia,DeveloperRafael1996,6,0,Python,,"Automatic meeting minutes generator using Python, LangChain, LangGraph, and OpenAI",M,"Professional, scientific activities",high
+693893614,Vet-Clinic_Database,JuanDiegoGuerra,6,0,PLpgSQL,,"In the upcoming projects, you will use a relational database to create the data structure for a vet clinic. You will start with one table, and step by step, you will create a complete database with data about: animals ,animals' owners, clinic employees, visits.",Q,Human health and social work,high
+676410154,Math_Magicians,JuanDiegoGuerra,6,0,JavaScript,,"This is the first project of the Math Magicians application. You will set up the environment and tools needed to develop a React application. In the following projects, you will develop the actual application.",P,Education,high
+642553095,Leaderboard,JuanDiegoGuerra,6,0,CSS,,"In this activity you will set up a JavaScript project for the Leaderboard list app, using webpack and ES6 features, notably modules.",J,Information and communication,high
+1021849607,Sentiment-Analysis-Alan-Garcia-Death,haroldeustaquio,6,0,Jupyter Notebook,,,M,"Professional, scientific activities",medium
+855967503,haroldeustaquio,haroldeustaquio,6,0,,,,J,Information and communication,low
+759587455,peru-dnie,edeustua,6,0,Python,,Herramientas y utilidades para utilizar el DNIe peruano en Linux.,O,Public administration and defense,high
+601376840,estela-queue-adapter,bitmakerla,6,0,Python,"kafka, python, queue-platform, scraping",Queue adapter for estela 🕸️,J,Information and communication,high
+528684766,spacewasm,daneelsan,6,0,Zig,"html5-canvas, js, wasm, zig",Original 1962 game code running on a PDP-1 emulator in Zig + Wasm + JS + HTML5 Canvas,R,"Arts, entertainment and recreation",high
+409701462,uxn,daneelsan,6,0,Zig,,UXN in Zig,J,Information and communication,medium
+339949624,webpackTemplate,kcotrinam,6,0,JavaScript,"babel, loader-plugin, loaders, plugin, template-repository, webpack, webpack-serve, webpack-server",This is a basic template of Webpack configuration.,J,Information and communication,high
+477573851,viefaucetv1,tudineroweb,6,8,Python,,script via termux automatize claim faucet,K,Financial and insurance activities,medium
+580185986,themes-example,luiisca,6,1,TypeScript,,Example app for `post link`,J,Information and communication,low
+691205355,zsh-run-scripts,Aireck2,6,0,Shell,"bash, bun, fzf, fzf-scripts, npm, package-json, package-manager, pnpm, scripts, yarn, zsh, zsh-plugin, zsh-plugins, zsh-scripts",zsh plugin for running scripts smartly from package.json,J,Information and communication,high
+66907778,DS-Desktop-Notify,DragShot,6,3,Java,"desktop, floating-notifications, java, notifications",A lightweight library that you can use in your Java-powered desktop apps to show floating notifications on the desktop.,J,Information and communication,high
+798042578,how-to-do-this-with-react,victorlunam,6,0,JavaScript,,,J,Information and communication,high
+719711050,python-bootcamp,deep-skill,6,1,Jupyter Notebook,,Python course,P,Education,high
+541341292,whatsapp-cloud-api,j05u3,6,2,TypeScript,"api, bot-api, nodejs, whatsapp-api, whatsapp-bot, whatsapp-business-api, whatsapp-cloud, whatsapp-cloud-api",Node.js library for creating bots and sending/receiving messages using the Whatsapp Cloud API,J,Information and communication,high
+686673053,dating-app,Yei-Linux,6,3,TypeScript,,Dating App where rules are being changed agains society,R,"Arts, entertainment and recreation",high
+683459167,youtube-mixer,Yei-Linux,6,0,TypeScript,,"Tool to manage , download, create social media content using IA and more features.",J,Information and communication,high
+7775182,working-hours,CesarBustios,6,1,Python,,Calculate working hours between two dates,N,Administrative and support activities,medium
+548618358,refirmainvoker,jumanor,6,7,HTML,"digital, firma, refirmainvoker, refirmapcx, refirmapdf","Motor de Firma Digital - Refirma Invoker - RENIEC, permite firmar varios documentos digitales con DNIe y certificados de persona jurídica. El proceso de firma es transparente y natural para los usuarios.",O,Public administration and defense,high
+53802527,MonitoreoDeVehiculos_GoLang,jumanor,6,3,HTML,,Monitoreo de Vehiculos en Tiempo Real con WebSocket y Go (Golang),H,Transportation and storage,high
+202576678,rb_tic_tac_toe,AnthonyTC89,6,0,Ruby,,This game is built using Ruby and is played on the terminal. The purpose of this project is to put in practice the concept of Object Oriented Program,R,"Arts, entertainment and recreation",high
+1079893541,order-service,IgorRC,6,0,Java,"docker, docker-compose, java, mockito, mongodb, unit-testing",Microservicio para la gestión de órdenes de entrega.,G,Wholesale and retail trade,high
+323178366,RockPaperScissorsLizardSpock,MeloDev2111,6,0,Java,,"Mini proyecto realizado para el curso de Arquitectura de Software, aplicando MVP Vista Pasiva y MVC.",R,"Arts, entertainment and recreation",high
+213209942,sparkAR_Neck_bending,emiliusvgs,6,5,,,code & scripts,R,"Arts, entertainment and recreation",high
+584804607,proyecto-final-pf,puntoenv,6,5,JavaScript,,Proyecto final de evaluación grupal Henry,J,Information and communication,low
+534062314,RoomMaestroDetalle,programadorescs,6,1,Kotlin,,"Ejemplo de un maestro-detalle usando Room, el patrón MVVM e inyección de dependencias con Dagger Hilt.",J,Information and communication,high
+430926017,ub-dev-playbook,jegj,6,0,Shell,,Ansible playbook to install and configures most of the software I use on my Ubuntu Dev Env,J,Information and communication,high
+578043703,cride,manwwe,6,1,Python,"amazon-s3, caddy, carpooling, celery-task, django-rest-framework, docker, docker-compose, platzi-course, redis",Comparte Ride (Cride) is a carpooling car app built in Django Rest and docker.,H,Transportation and storage,high
+297531552,MITx-6.86x-machine-learning-with-python,mlaricobar,6,2,Jupyter Notebook,,This repo contains all of the solutions for the MIT 6.86x Machine Learning with Python - From Linear Models to Deep Learning course taught by the IDSS ,M,"Professional, scientific activities",high
+328287128,Estadistica-Aplicada,luiqs,6,8,HTML,,Curso básico e intermedio de estadística en R. Teórico - práctico,P,Education,high
+380553269,Irrigation-3021,davemaster,6,1,C++,"bluetooth, codeforgood, cppbuilder, hc-05",How Bluetooth Technology can improve the use of water resources worldwide,A,"Agriculture, forestry and fishing",high
+111758876,nme-go,madrazo,6,0,Haxe,"game-engine, haxe, nme, shaders",NME Graphics Objects: node-based programable GPU effects on top of GLView,R,"Arts, entertainment and recreation",high
+810904762,frase-para-dedicar,mabelolivera10,5,4,CSS,,,R,"Arts, entertainment and recreation",low
+800545065,cartaparamamadiadelamadre,mabelolivera10,5,0,CSS,,,S,Other service activities,medium
+790864827,mensajecorazon,mabelolivera10,5,1,CSS,,,J,Information and communication,low
+784327175,erescomoelcafe,mabelolivera10,5,0,CSS,,,J,Information and communication,low
+581646378,DotNet_MinimalAPI_Example,apholdings,5,0,C#,,,J,Information and communication,high
+831581889,133_WEBAPI_NET8_EF8,CodigoEstudiante,5,0,C#,,,J,Information and communication,low
+817573703,130_Sistema_Alquiler_CSharp_SQLite,CodigoEstudiante,5,3,C#,,,L,Real estate activities,medium
+784038081,119_WebAPI_NET8_CRUD_ADONET,CodigoEstudiante,5,0,C#,,,J,Information and communication,high
+439090937,shiny_rgee_template,csaybar,5,2,R,"earth-engine, rgee, shiny, shiny-apps",Deploy shiny & rgee apps using Shinyapps.io,M,"Professional, scientific activities",high
+1026283433,quantum_hub,jorgemunozl,5,0,Jupyter Notebook,,Quantum Hub First Cohort,M,"Professional, scientific activities",medium
+998587650,openpi_subtask_generation,jorgemunozl,5,0,Python,,pi05 model written on JAX,M,"Professional, scientific activities",medium
+399635399,ubigeo,jmcastagnetto,5,2,R,"opendata, peru, r, ubigeo","In Peru, geographical locations have an official geographical code called UBIGEO (from the spanish denomination as ""UBIcación GEOgráfica"").  The problem is that there are two widely used and not completely      equivalent coding systems: INEI and from RENIEC. This package contains datasets with the mappings from one to the other & other extra data.",O,Public administration and defense,high
+89536316,nocker-wheezy-app,jansanchez,5,0,Makefile,"babel, docker, es2015, nodejs, nodemon, yarn",Example of use for the image: jansanchez/nocker-wheezy,J,Information and communication,high
+497672857,TechiesMoney,jesulink2514,5,0,C#,,,J,Information and communication,low
+1174834584,perks,crafter-station,5,0,TypeScript,,,J,Information and communication,low
+1159704111,meta.playground,crafter-station,5,0,TypeScript,,https://img.crafter.run/,J,Information and communication,low
+1159628253,pushup.ai,crafter-station,5,0,TypeScript,,Count your pushups,Q,Human health and social work,high
+1152473436,latex-renderer,crafter-station,5,1,CSS,,i'm doing this bc i don't want to port latex,M,"Professional, scientific activities",medium
+90087070,ruby-saas-boilerplate,giancorzo,5,0,CSS,,Ruby project that includes everything you need to create a saas project,J,Information and communication,high
+201521265,R-Hydrology-Tools,Hydroenvironment,5,8,R,,Training of data handling and descriptive statistics in R,E,Water supply; sewerage,high
+633256196,Leaderboard,CarlosIgreda,5,0,CSS,"api, css, html, javascript, webpack",The leaderboard website displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.,R,"Arts, entertainment and recreation",high
+629730986,CarlosIgreda,CarlosIgreda,5,0,,"github, readme-profile","A file that contains information about my work, capabilities and realizations.",J,Information and communication,high
+856640026,Python-Programming101,john-caballero,5,8,Jupyter Notebook,,"Este repositorio contiene el material oficial del curso Programación 101, perteneciente a la Maestría en Ciencia de Datos e Inteligencia Artificial de la Universidad de Ingeniería y Tecnología (UTEC).",P,Education,high
+6156863,extract-values,gnrfan,5,0,Python,,A Python module for extracting values out of a string using a simple pattern instead of regular expressions,J,Information and communication,high
+351805947,RPisco,GeomarPerales,5,0,R,"hydrology, peru, pisco, senamhi",An R package with tools for manipulate Pisco databases from SENAMHI (Peru).,E,Water supply; sewerage,high
+1040852839,dotnet-dumpling,CoreyKaylor,5,0,C#,,A delightful CLI tool for analyzing .NET memory dumps.,J,Information and communication,high
+824741269,JulianB0315,JulianB0315,5,0,,readme-profile,Readme de perfil,J,Information and communication,high
+130912273,MosaicFreeCloud,ytarazona,5,2,R,,Using MosaicFreeCloud we can generate images of cloud-free satellite.,A,"Agriculture, forestry and fishing",high
+515450230,Dataflow_v01,macespinoza,5,7,Java,,Laboratorios de Dataflow,M,"Professional, scientific activities",medium
+41638929,dashninja-db,elbereth,5,19,,,Dash Ninja Database,K,Financial and insurance activities,high
+4105263,dragama,elbereth,5,0,Pascal,,"Dragon Game Manipulator is the logical step after Dragon UnPACKer: Manipulate games files, create patches, distribute your mods and hopefully much more!",R,"Arts, entertainment and recreation",high
+917733857,personalizacion-de-escritorio-en-windows-con-estilo-geografico,geografope,5,0,,,"📂 Este repositorio contiene una serie de pasos 📜 que te guiarán para lograr una personalización exclusiva, con un aspecto geográfico único 🌎, adaptada a tu entorno de trabajo y ubicación 📍, utilizando QGIS 🌍 y otros software gratuitos 🖥️",M,"Professional, scientific activities",medium
+1149235346,EduNode-AI,javsan77,5,0,JavaScript,,"EduNodo AI is a intelligence platform that converts Peru’s Educational Service Padron in .dbf format into a scalable, actionable decision environment, combining cloud-based RAG on Cloudflare Workers with spatial analytics, statistical modeling, and natural-language interaction to help educational managers plan.",P,Education,high
+1126777093,zed-notion-mcp,f1729,5,1,Rust,,Notion MCP Server extension for Zed editor,J,Information and communication,high
+243381187,map-science,f1729,5,2,Clojure,"clojurescript, helix, pigeon, react-range",Clojurescript React Application for Learning,P,Education,medium
+1141572570,databricks-bootcamp-zero-to-ninja,DanielEdu,5,2,Python,,,J,Information and communication,medium
+187419972,huskyA200-VLP16,claydergc,5,1,CMake,"gazebo, huskya200, vlp16",Gazebo files to simulate the Husky A-200 robotic platform mounted with a Velodyne VLP-16 LidAR,M,"Professional, scientific activities",high
+113256240,ns-restlet-framework,felipechang,5,1,TypeScript,,"NetSuite RESTlet framework. User defines the models and methods, the framework handles the REST. ",K,Financial and insurance activities,high
+653869451,react-culqi-next,hebertdev,5,2,TypeScript,"culqi, react, tsdx, typescript","A React library for integration with the Culqi payment processor, compatible with Next.js",K,Financial and insurance activities,high
+415975491,coding-bootcamp-website,piero-vic,5,0,HTML,microverse,"Website project for Module 1 of Microverse. Built using HTML, CSS and JavaScript.",P,Education,high
+404570963,dotfiles,piero-vic,5,0,Lua,"alacritty, dotfiles, neovim, shell, swaywm, tmux, zsh",Configuration files and scripts for my Arch Linux system.,J,Information and communication,high
+1041817495,SandaGameJam2025,shiarauzo,5,0,GDScript,,An awesome gravity-themed videogame,R,"Arts, entertainment and recreation",high
+96055018,Elephant,kerpie,5,1,Java,,Annotation Processor to apply the Memoization technique in Utils-like classes,J,Information and communication,high
+927581108,server-timing,edgefirst-dev,5,0,TypeScript,,A helper to collect measurements for the Server-Timing header,J,Information and communication,high
+705714766,GIF-Camera-App,JuanDiegoGuerra,5,0,,,Gif camera is a simple and ligh app that allows you to record a gif in a selected area of your screen.,J,Information and communication,high
+705450146,Carta_Gorilas_PDF,JuanDiegoGuerra,5,0,HTML,,Displays the menu of Gorilas restaurant with a pdf file.,I,Accommodation and food services,high
+696913641,DB_based_on_diagram,JuanDiegoGuerra,5,0,,,"You will get a database diagram, interpret it, and implement the SQL needed to build that database.  IMPORTANT",J,Information and communication,high
+680044526,Bookstore,JuanDiegoGuerra,5,0,JavaScript,,This project will lay the foundations for your Bookstore website. You will create the user interface using React.,G,Wholesale and retail trade,high
+635608691,GoogleChrome-OfflineDinoGame,JuanDiegoGuerra,5,1,JavaScript,,Google Chrome Dinosour game when you are in offline mode. It is different from the original one but has the same mechanics.,R,"Arts, entertainment and recreation",high
+635477574,ToDoList-Webpack,JuanDiegoGuerra,5,0,JavaScript,,Making a to-do list page using Webpack,J,Information and communication,high
+175147521,TallerShiny-WomensDay,VilmaRomero,5,2,R,"ggplot2, leaflet, plotly, shiny",Taller preparado para el evento Women's Day: Por más mujeres en tecnología,M,"Professional, scientific activities",medium
+42637572,bzip2,jaime-olivares,5,2,C#,,A pure C# implementation of the bzip2 compressor,J,Information and communication,high
+705973340,frutas2023-2,PeterTXS09,5,0,Python,,,A,"Agriculture, forestry and fishing",medium
+691186869,deteccion_conteo_espacios_demo,PeterTXS09,5,1,Python,,Detección de Parking vacios,H,Transportation and storage,high
+74242646,competitive_programming,larc,5,0,C++,"algorithms, competitive-programming, computer-science, data-structures, graph-algorithms, math, problem-solving, programming, programming-contests",Collection of my solutions for some competitive problems.,J,Information and communication,high
+469795344,Math-Magicians,Kakalanp,5,0,JavaScript,,Math magicians is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple calculations and read a random math-related quote.,P,Education,high
+358269133,geo_rb,kucho,5,0,Ruby,,"geo_rb makes it easy for Ruby developers to locate the coordinates of addresses, cities, countries, and landmarks across the globe using third-party geocoders.",H,Transportation and storage,medium
+626084194,estela-requests,bitmakerla,5,1,Python,,estela-requests provides enhanced functionality for making HTTP requests and seamless integration with estela.,J,Information and communication,high
+368572006,estela-entrypoint,bitmakerla,5,2,Python,"crawling, kafka, python, scraping",estela entrypoint for job runner 🕸,J,Information and communication,high
+530726893,DataStoreApp,EduDev06,5,0,Kotlin,"android, coroutines, datastore-android, hilt-compose, hilt-dependency-injection-android, jetpack-compose, kotlin, mvvm-android","Data Store App allows save and retrieve values by using data store. Also, the app was created with MVVM pattern and others libraries like Hilt and Coroutines.",J,Information and communication,high
+444301768,Wireworld,daneelsan,5,1,Mathematica,"c, wireworld, wolfram-language, zig",Wireworld: a Turing-complete cellular automaton suited for simulating logic gates and other real-world computer elements,M,"Professional, scientific activities",high
+349495125,boton-flotante,gcancho,5,4,CSS,,Botón flotante con CSS,J,Information and communication,high
+556973401,eslint-report-action,ldiego73,5,1,TypeScript,"eslint, github-actions",A Github Action that convert ESLint report to markdown,J,Information and communication,high
+409352316,system-engineering-devops,cristhian-apaza,5,1,Shell,,"0x00. Shell, basics",J,Information and communication,high
+169993584,Seedman,AngelRodRo,5,1,JavaScript,"javascript, prototype, prototyping, seeder, testing","Seedman is a seeder allows you create data for any models or collections in any database engine like MongoDB, MySQL, Postgres, etc. (Current version: Only Supports MongoDB).",J,Information and communication,high
+257632013,lifestyle-articles,xtrmdarc,5,0,Ruby,"article-page, rails, ruby",Criftlix is the most popular web app to write - read articles about the latest netflix's shows. Simply log in to your account and start exploring. This project consists of a simple sessions system with login and sign-up functionalities. You'll be redirected to the homepage where all categories will be displayed together with the most recent article written in that category. You can click the category section to browse all articles inside a single category. I also implemented a voting system for the articles where the user can vote just once for each article.,R,"Arts, entertainment and recreation",high
+1167156597,DashAI,Mr20DL,5,0,JavaScript,,,J,Information and communication,low
+628146479,hiperbarica-clinic,luiisca,5,1,MDX,"botpress, calcom, contentlayer, google-maps-api, nextjs, tailwindcss, typescript","A Next.js 13 website for a clinic that offers hyperbaric oxygen therapy, featuring blog, server-side content search, interactive map, AI chatbot and online appointment system.",Q,Human health and social work,high
+551438297,python_climatologia,cryohydromettools,5,5,Jupyter Notebook,,Este es un curso de python aplicado al análisis y visualización de datos climáticos.,A,"Agriculture, forestry and fishing",high
+536734071,group4backend,YotoCoder,5,0,,,Repositorio principal grupo 4 proyecto Programación en Español.,J,Information and communication,low
+971038465,lb-p2p-lan-chat,luisBazanDev,5,1,TypeScript,"p2p-chat, typescript",It's a simple P2P chat based on LAN networks. It maintains two listening sockets: a UDP socket for discovery and a TCP socket for message transport.,J,Information and communication,high
+521149529,Inteligencia-Artificial,JafetRaul,5,0,Jupyter Notebook,,Asignatura del 7 Ciclo de la EAPIS || FISI - UNMSM,P,Education,high
+836965226,excel2pdf,user0608,5,2,Go,,Converts an Excel file to PDF,J,Information and communication,high
+301241550,Unix-shell,rodp63,5,3,C,"college-project, shell, unix",UNIX Shell. Project 1 of the Programming Projects in Chapter 3 - Operating Systems Textbook,J,Information and communication,high
+294445297,youtube-projects,Benjacho,5,16,Jupyter Notebook,,This is a repository where i will be sharing code of my youtube projects ,J,Information and communication,medium
+77761073,sunatCrawler,alonsogodinez,5,3,Python,"flask, ocr, sunat, tesseract-ocr",Mini app (service) to get basic information about a specific RUC from SUNAT using Tesseract OCR,K,Financial and insurance activities,high
+658987056,copier-mindsdb-handler,rmaceissoft,5,0,Jinja,"bootstrapping, copier, copier-template, mindsdb, template",Copier template to generate boilerplate code for new MindsDB's handlers,J,Information and communication,high
+908341000,2025-macro-finance,qlab-intro-python,5,8,Jupyter Notebook,,,K,Financial and insurance activities,medium
+1004611504,tools-for-bolt,dceluis,5,2,TypeScript,,An extension to improve the bolt.new experience,J,Information and communication,high
+365888170,Proxies-Discord-Bot,x-name15,5,2,Python,,This is a Discord Proxies Generator Bot,J,Information and communication,high
+357633176,Rewards-Master-Bot,x-name15,5,4,Python,,This bot is exclusive for the Rewards servers of Discord,R,"Arts, entertainment and recreation",high
+487201387,nestjs-test,jguillermo,5,0,TypeScript,,,J,Information and communication,high
+365902159,GamiUI,Yei-Linux,5,1,TypeScript,"atomic-design, chromatic, classnames, emotion, react, storybook, typescript",GamiUI is an UI Library provides a series of customizables components to use on apps wich use a gamification orientation.  NPM: https://www.npmjs.com/package/@gamiui/standard.    Storybook : https://6098a5391a29200039e99041-irdhvapfqc.chromatic.com/?path=/docs/atoms-avatar-%F0%9F%9F%A2--one,R,"Arts, entertainment and recreation",high
+1099451324,SPADE-Natural-Selection-Simulator,LiamQuinoNeff,5,1,Python,"3d, agent-based-modeling, csv, data-visualization, demo, education, evolutionary-algorithms, logging, multi-agent-systems, natural-selection, python, realtime-visualization, research, simulation, spade, threejs, webgl, xmpp","Simulación basada en agentes para estudiar selección natural y comportamiento emergente. Implementado en Python con agentes SPADE que se comunican por XMPP, genera datos de generación en CSV y proporciona una interfaz web interactiva 3D (Three.js) para visualización en tiempo real.",M,"Professional, scientific activities",high
+565742041,Tambos_MIDIS_Peru,braulio-arteaga,5,0,Jupyter Notebook,,"Web scraping with Python of the ""PAIS"" social program web page to obtain information on the ""Tambos"" (fixed platforms in rural areas) at the district level in Peru.",O,Public administration and defense,high
+269697824,To-do-list,bren2102,5,1,JavaScript,"javascript, webpack","This javascript app is a Todo list application, built using OOP principles, organizing JS code, object factories and classes along with ES6 modules, and using Webpack as a module manager. You can create as many projects as you want and also add unlimited todo tasks to them.",J,Information and communication,high
+628766581,file-organization-dbms,jjordanoc,5,0,C++,"data-structures, database-management-system, file-organization",Implementation of various file organization techniques and example GUI application,J,Information and communication,high
+559271756,multicycle-arm,jjordanoc,5,0,Verilog,"armv7, computer-architecture, multicycle-processor","Implemented additional operations for a Multicycle ARM Processor, as presented in Digital Design and Computer Architecture by Harris & Harris",J,Information and communication,high
+300633695,neo4jd3,vanessapr,5,0,JavaScript,,Neo4j graph visualization using D3.js,J,Information and communication,high
+801731023,api-anime,davidprospero123,5,0,,"anime-scraper, api, whatsapp-bot",Le ire agregando mas cosas de anime para que tengamos todo lo nuevo siempre y cuando me percate que me echan suport,R,"Arts, entertainment and recreation",high
+529649743,Corporate-Finance-II-Undergraduate,AChangM,5,0,Jupyter Notebook,,Curso de pregrado de Finanzas Corporativas II de la escuela profesional de Ingeniería Económica de la UNI.,P,Education,high
+257060535,CRUD-Google-SpreadSheets,gabiprds93,5,0,JavaScript,,"Making CRUD opertions on Google Spread Sheet using HTML, JS and Google APP SCRIPT.",J,Information and communication,high
+506672396,makePalette,musajajorge,5,1,R,"clara, color, kmeans, kmeans-algorithm, kmeans-clustering, kmeans-clustering-algorithm, palette, pam","It's a package containing functions that allow you to create your own color palette from an image, using mathematical algorithms",M,"Professional, scientific activities",high
+959242697,test-repo,LubeckHuaman,5,0,Python,,test,J,Information and communication,low
+1136037555,finesi_web,BeltranHC,5,0,TypeScript,,Sistema web integral para la gestión y difusión de información académica de la Facultad de Ingeniería Estadística e Informática,P,Education,high
+271427641,Easybank-landing-page,cristhianLaurente,5,0,CSS,,,K,Financial and insurance activities,medium
+271390862,bookmark-landing-page,cristhianLaurente,5,0,CSS,,,J,Information and communication,high
+619043068,RetrofitMaestroDetalle,programadorescs,5,1,Kotlin,,"Ejemplo de un maestro-detalle que consume un apirest. Usaremos Retrofit para la comunicación con la api, el patrón MVVM e inyección de dependencias con Dagger Hilt. ",J,Information and communication,high
+44947471,odontograma,cucarach0n,5,8,HTML,,aplicacion utilizando angular.jquery y javascrip,Q,Human health and social work,high
+1076546877,Proyecto_calidad_sofware,Jonathan03R,5,2,JavaScript,,Principios de calidad de sofware,J,Information and communication,high
+1105590488,claude-code-history-viewer,yanicklandry,5,4,JavaScript,"claude, claude-code, desktop-app, developer-tools, electron, electron-app, history-viewer",Browse your Claude Code session history in a beautiful chat interface,J,Information and communication,high
+1135196609,awesome-everything-as-code,YamilAyma,5,0,,"awesome, awesome-list, awesome-list-awesome-list, eac, everything-as-code, list",A curated collection of EaC tools,J,Information and communication,high
+347143889,ontoSLAM,Alex23013,5,2,Python,,,M,"Professional, scientific activities",medium
+684731621,EFI-Asus-A320m-k-OpenCore,EGL9,5,1,,"a320m-k, efi, egpu, macos, opencore, rx570, ryzentosh, sonoma, ventura",EFI OpenCore for macOS Ventura/Sonoma,J,Information and communication,high
+750865165,cv,yupanquiah,5,1,Astro,"astro, css, html, javascript, typescript",resume,M,"Professional, scientific activities",medium
+905776437,IWSLT2025_Quechua_data,Llamacha,5,0,JavaScript,,,P,Education,medium
+376126003,Churana,Llamacha,5,1,,"computational-linguistics, low-resource-languages, natural-language-processing, peru",,M,"Professional, scientific activities",high
+833769655,testcontainers-swift,cristianpalomino,5,3,Swift,"docker, swift, testcontainers, testing",Testcontainers for Swift its a library which has the initiative to allows integrate Docker with your tests cases.,J,Information and communication,high
+587501204,spring-boot-starter-jwt,cmeza20,5,1,Java,,Spring Boot Starter JWT,J,Information and communication,high
+928718,django-notification,soad241,5,1,Python,,clon of jtauer's django notification,J,Information and communication,high
+916974,django-email-confirmation,soad241,5,0,Python,,clon of jtauber's django-email-confirmation,J,Information and communication,high
+417367791,Geoscience_Multiverse,AotinianoZ,5,1,Jupyter Notebook,,"Este repositorio es la base para el desarrollo del curso Geodatabase, Geo-Statistics, Machine Learning and Big Data: Applied to Geology  (SQL – R – Qgis - Python)",B,Mining and quarrying,high
+356357092,web-connection-grabber,Gabrieltec123,5,3,JavaScript,"anonytun, http-custom, http-injector, internet-gratis, kpn-tunnel, netfree, youtube",Ver todas las solicitudes y respuestas HTTP enviadas entre el navegador web y el servidor web,J,Information and communication,high
+842735970,loveitheart,mabelolivera10,4,5,CSS,,,J,Information and communication,low
+680959254,Arduino_Core_STM32,mriscoc,4,1,C,,STM32 core support for Arduino and PlatformIO in Marlin,C,Manufacturing,high
+647379540,NodePro-ESP32,mriscoc,4,0,,,Node Pro-Ender by Fiberpunk - ESP32,C,Manufacturing,medium
+837008390,134_CRUD_DAPPER_API_NET8,CodigoEstudiante,4,0,C#,,,J,Information and communication,medium
+320688711,todo-project,goandreus,4,0,Dart,,todo,J,Information and communication,low
+515572706,app-base-architecture,emedinaa,4,0,Kotlin,,Building a base architecture for my android app,J,Information and communication,high
+455984725,cvxpy,dcajasn,4,1,C++,,A Python-embedded modeling language for convex optimization problems.,M,"Professional, scientific activities",high
+345005991,dcajasn,dcajasn,4,0,,,,J,Information and communication,low
+738186297,inventarios-final-v-1,Franklin369,4,1,JavaScript,,,G,Wholesale and retail trade,medium
+716757394,control-gastos-9-noviembre-2023,Franklin369,4,2,JavaScript,,,K,Financial and insurance activities,medium
+1022341306,astro_tailwind_4-template,BracoZS,4,0,Astro,"astro, frontend-framework, tailwind, tailwindcss-v4, template",Basic Astro + Tailwind 4 stater template ,J,Information and communication,high
+939509452,salamandradevs.site,BracoZS,4,0,HTML,,Sitio web de la comunidad Salamandra Devs - version,J,Information and communication,high
+841682694,aprendiendo-react,gustarting,4,0,TypeScript,,Curso para aprender React desde cero,J,Information and communication,high
+820678785,awesome,gustarting,4,0,,,"What do hackers want? Like all craftsmen, hackers like good tools. In fact, that's an understatement. Good hackers find it unbearable to use bad tools. They'll simply refuse to work on projects with the wrong infrastructure.",J,Information and communication,high
+710482207,PRACTICA_DOMPDF,Anders87x,4,0,,,Practica de como usar DOMDPF con composer,J,Information and communication,medium
+583105004,flutter_andercode_pokedex,Anders87x,4,0,C++,,,R,"Arts, entertainment and recreation",medium
+393533556,rails-stripe,KattyaCuevas,4,6,Ruby,"learning, payments, rails, stripe",Aplicación que construiremos a lo largo del curso de Integración de Pagos en Rails con Stripe en Código Facilito.,K,Financial and insurance activities,high
+681783642,stm32_hello_cmsis_wokwi,WelsTheory,4,1,C,,,C,Manufacturing,medium
+342131396,covid-19-peru-vacunas,jmcastagnetto,4,1,R,"coronavirus, covid-19, covid19-data, dataset, vaccines",Datos procesados de vacunas COVID19 en Perú. Datos originales de https://www.datosabiertos.gob.pe/dataset/vacunacion,Q,Human health and social work,high
+1088937045,skardustay,wajahat-ali-mir-dev,4,1,JavaScript,,,J,Information and communication,low
+479577622,DHS-Indicators-Stata,ljporras,4,2,,,Stata code to produce Demographic and Health Survey Indicators,Q,Human health and social work,high
+1151850362,cs.chat,crafter-station,4,0,TypeScript,,,J,Information and communication,medium
+529395165,codigocristo.github.io,CodigoCristo,4,0,CSS,,Web,J,Information and communication,medium
+492306981,NASANEXGDDP-CMIP6,Hydroenvironment,4,2,R,,NASA NEX GDDP CMIP6 daily data Handling,M,"Professional, scientific activities",high
+424272687,blogApp,sheylaPozo,4,0,Ruby,,A fully functional blog website that shows the list of posts and empower readers to interact with them by adding comments and liking posts.,J,Information and communication,high
+416720764,schoolLibrary,sheylaPozo,4,0,Ruby,,,P,Education,high
+965328462,Programacion-Python-Utec,john-caballero,4,2,Jupyter Notebook,,Este repositorio contiene el material oficial del Programa en Python dictado por la Universidad de Ingeniería y Tecnología (UTEC). ,P,Education,high
+498966597,Deep-Learning-Program,john-caballero,4,6,Jupyter Notebook,,This is a scripts repository used on my Deep learning program.,M,"Professional, scientific activities",medium
+105950867,gradeexport_xlsgd,juaneladio,4,2,PHP,,A public code repository for a Moodle Plugin: Exports: XLS with Groups and Dates,P,Education,high
+3319068,Metropolitano-Mobile,juaneladio,4,5,JavaScript,,"[OBSOLETO: Ver https://github.com/juaneladio/metropolitano ] Proyecto en JQuery Mobile para construir una web móvil con información del servicio de transporte Metropolitano en Lima, Perú.",H,Transportation and storage,high
+11714233,django-mailgun-validation,gnrfan,4,4,Python,,This is a Django app that provides fields (for models and forms) that use Mailgun's validation API for validating email address.,J,Information and communication,high
+672544759,senamhiws,GeomarPerales,4,0,R,"hydrology, senamhi","senamhiws is a web scraping package from SENAMHI (Peru) wih R, the purpose of senamhiws is get record and details of SENAMHI stations.",A,"Agriculture, forestry and fishing",high
+464687059,virtual-backend-g12,ederivero,4,3,,,Repositorio del modulo de Backend de CodiGo,P,Education,high
+947968314,super_market_py,JulianB0315,4,0,Python,"csv, python",,G,Wholesale and retail trade,medium
+842291033,Proyect_bank,JulianB0315,4,0,Java,"crud, java, oracle-database, poject, practice, sql, swing","Este proyecto tiene como objetivo desarrollar una aplicación para la gestión de datos en un entorno bancario, utilizando el lenguaje de programación Java. La aplicación se ha diseñado siguiendo el enfoque SCRUD (Search, Create, Read, Update, Delete) para gestionar de forma integral las operaciones de información que maneja el banco.",K,Financial and insurance activities,high
+836944271,JulianB0315.Github.io,JulianB0315,4,1,HTML,"css, html5, javascript","Mi hoja de vida usando html, ccs y un poco de Javascript :)",J,Information and communication,high
+190089831,cl-gambol,defunkydrummer,4,1,Common Lisp,,basic Prolog functionality for Common Lisp cloned from https://code.google.com/p/cl-gambol/,M,"Professional, scientific activities",high
+1104935561,DevFestIca25-Activity1,Dav082004,4,2,,"copilot, devfest25, github, mcp-server",Actividad 1 GitHub Copilot y MCP Server 👾,J,Information and communication,high
+411103336,pkb,ManuelLoaizaV,4,0,,,Welcome to my personal knowledge base,J,Information and communication,low
+41647338,dashninja-be,elbereth,4,18,PHP,,Dash Ninja Back-End (Private Rest API),K,Financial and insurance activities,medium
+134492097,MeetUp-16,Android-Dev-Peru,4,1,,,Java to Kotlin - Anko and Android KTX - Patrones de arquitectura,J,Information and communication,high
+870207044,Interview-Android-Senior,PaulGuillen,4,0,,,,J,Information and communication,high
+917817869,descargar-datos-de-earthengineapps-con-r,geografope,4,0,R,"geografope, google-earth-engine, r, rgee",📂 Este repositorio contiene una serie de instrucciones 📝 que puede ayudarte a  descargar los datos disponibles de las aplicaciones construidas en Google Earth Engine🌍 utilizando R 📊.,M,"Professional, scientific activities",high
+913431260,3d-terrain-with-maplibre,geografope,4,0,HTML,"geografia, geografope, maplibre, visualization-3d",En este repositorio 🗂️ contiene una guía 📝 de como generar visualizaciones 3D de cualquier parte del mundo 🌍 en la Web usando MapLibre 🖥️.,M,"Professional, scientific activities",high
+784537874,maplibre-con-python,geografope,4,1,Jupyter Notebook,"geografia, geografia-computacional, geografope, geopython, gisweb, mapasweb, maplibre, peru, python","¡Bienvenidos al repositorio de MapLibre con Python! 🗺️ Descubre cómo aprovechar esta potente herramienta de mapeo de código abierto, nacida el 9 de diciembre de 2020 como un fork de Mapbox GL JS 1.13. ¡Explora y únete a la revolución del mapeo gratuito! 🚀",M,"Professional, scientific activities",high
+776179450,personalizacion-de-leyenda-en-qgis,geografope,4,1,,"cartografia, cartography, geografia, geografia-computacional, geografope, patche-shape-for-qgis, peru, qgis","En este repositorio 🗂️ encontrarás algunos truquitos y expresiones que pueden potenciar tu visualización de mapas en QGIS, sobre todo te ayudará a crear tus propios estilos (patch shape) para tus propios diseños cartográficos 🎨🌐.",M,"Professional, scientific activities",high
+768911412,vectorial-spatial-formats,geografope,4,0,,"flatgeobuf, gdb, geoarrow, geografia, geografia-computacional, geografope, geography, geojson, geoparquet, gpkg, peru, shp, spatial-formats","🔍 Comparative analysis on storage, number of files, and spatial data reading across different formats. 📊 🌟",M,"Professional, scientific activities",high
+239949428,lrp-criminalrecord,karenciita,4,4,JavaScript,,criminal record,O,Public administration and defense,high
+245947573,cinema-lambda,f1729,4,0,Clojure,"compojure-api, httpkit, websockets","Compojure/Ring, HTTPKit, WebSockets",R,"Arts, entertainment and recreation",medium
+498183101,blueberry_farm,claydergc,4,1,CMake,,A virtual blueberry farm that works in Gazebo,A,"Agriculture, forestry and fishing",high
+995066961,AURA,FooTalentGroup,4,1,Java,,,J,Information and communication,low
+498890517,house-booking-front-end,piero-vic,4,3,JavaScript,microverse,,I,Accommodation and food services,high
+447023435,coin-watcher,piero-vic,4,1,JavaScript,"coingecko-api, cryptocurrency, messari-api, react, tailwindcss",Get information about cryptocurrencies.,K,Financial and insurance activities,high
+436662039,intercheck-extension,jhonatanmacazana,4,0,TypeScript,,Hackatel - Osiptel. Sistema para monitorear el servicio de internet fijo,J,Information and communication,high
+828641848,dailybot,zmandel,4,0,,,"Daily ""scrum"" bot for Microsoft Teams",J,Information and communication,high
+40138582,Scrolling_Techniques_For_Android,kerpie,4,13,Java,,Scrolling techniques using the Android Design Support Library,J,Information and communication,high
+1107384309,cv_system_analyzer,DeveloperRafael1996,4,0,Python,,Intelligent resume analysis and evaluation system using artificial intelligence to support recruitment,N,Administrative and support activities,high
+698427500,Microverse-Diary,JuanDiegoGuerra,4,0,,,"Repo in where a group of friends write and add whatever they want  to exploid commits, PRs, Issues, etc.",J,Information and communication,low
+683545835,Sofland-Tournaments,JuanDiegoGuerra,4,0,CSS,,Tournament publicitary webpage for Softland Gaming Center,R,"Arts, entertainment and recreation",high
+636988993,MinStack-CodingChallenge,JuanDiegoGuerra,4,0,JavaScript,,Create a Stack that contains the standard push and pop methods. It should also contain another method min that returns the minimum number in the Stack.,J,Information and communication,high
+636987231,BalancedBrackets-CodingChallenge,JuanDiegoGuerra,4,0,JavaScript,,Balanced Brackets Coding Challenge using the 3 kinds of brackets: [] {} (),J,Information and communication,high
+177903338,gddownloader-cs,d4n3436,4,0,C#,"csharp, dotnet, geometry-dash, newgrounds", A program for downloading Newgrounds banned audio.,R,"Arts, entertainment and recreation",high
+818088928,WebXR-demo3,PeterTXS09,4,1,JavaScript,,,R,"Arts, entertainment and recreation",medium
+442660831,TBomb,NextKool,4,1,Python,,Este es un bombardero de SMS y llamadas para Linux y Termux,J,Information and communication,medium
+733648894,jcaramantin.github.io,jcaramantin,4,0,JavaScript,,Repository for presentation,J,Information and communication,medium
+250013515,wickedtree,edeustua,4,1,Python,,A simple implementation of Wick's theorem using binary trees.,M,"Professional, scientific activities",high
+464978465,Leaderboard,Kakalanp,4,0,JavaScript,"api, css, html, html-css-javascript, javascript, leaderboard, modular, webpack","This is a project that let's you see a list of scores using an API, using HTML and CSS to look so stylish and JavaScript, so you can add your own and it will be saved on the list forever!",R,"Arts, entertainment and recreation",medium
+459742066,TO-DO-list,Kakalanp,4,0,JavaScript,"algorithms, css, html, javascript, localstorage, modular","This is a simple To-do list page, build with Webpack, HTML, CSS, and mostly JavaScript. You can add, remove, edit and complete tasks, then clear all completed.",J,Information and communication,high
+459245981,Awesome-books-with-ES6,Kakalanp,4,0,JavaScript,"css, html, javascript, modular","A simple web app that allows the user to create a list of their favorite books. It uses HTML, CSS and modular JavaScript to manage the addition and removal of different titles and authors.",J,Information and communication,high
+531641091,alessandro_portfolio,dalessandro07,4,0,Astro,"portfolio, portfolio-website",Mi sitio web personal.,J,Information and communication,high
+245934359,cow-bull,yummta,4,0,JavaScript,,,R,"Arts, entertainment and recreation",medium
+255981038,UltraCTW,InsiderAnh,4,9,Java,,UltraCTW,R,"Arts, entertainment and recreation",medium
+375090937,llaxta,kucho,4,0,Ruby,,,J,Information and communication,low
+398300294,estela-cli,bitmakerla,4,3,Python,"crawling, python, scraping",estela Command Line Client 🕸 ,J,Information and communication,high
+981881546,MNIST-diff-flow-matching,CristianLazoQuispe,4,0,Jupyter Notebook,,,M,"Professional, scientific activities",high
+1133236982,twitter-news-summary,JorgePasco1,4,0,Rust,,Get a summary from a twitter list right to your Telegram,J,Information and communication,high
+260374604,cra-template-clean-cra,JorgePasco1,4,0,HTML,,"Basic, clean create-react-app template.",J,Information and communication,high
+892177006,LocalNotificationKMP,EduDev06,4,0,Kotlin,,,J,Information and communication,medium
+407070173,react-redux-ts-router-boilerplate,master-bogdan,4,0,TypeScript,"axios, best-practices, boilerplate, react, react-boilerplate, react-boilerplate-template, react-redux, react-redux-boilerplate, react-typescript, react-typescript-boilerplate, redux, typescript","Basic react, redux, typescript boilerplate",J,Information and communication,high
+908052121,agentic-patterns-es,A-PachecoT,4,2,Python,,Guía práctica y patrones de diseño para construir agentes de IA con LangGraph y LangChain en español 🤖🔗,M,"Professional, scientific activities",high
+844797002,WolframLanguageRuntimeZigDemo,daneelsan,4,0,Mathematica,"wolfram-language, wolfram-mathematica, zig",WolframLanguageRuntime demo in Zig,M,"Professional, scientific activities",high
+483136735,Dodgeballz,daneelsan,4,0,Zig,"html5-canvas, webassembly, zig","A mini game using Zig, WASM and JS",R,"Arts, entertainment and recreation",high
+200896022,wb-angular-advanced,jcyovera,4,1,TypeScript,,,J,Information and communication,medium
+636977365,electron,boomslag,4,0,TypeScript,,Boomslag Studio Electron App,J,Information and communication,high
+285884270,stockly,xtrmdarc,4,2,JavaScript,"react, sass, stocks-api","Stockly is the go to website to follow / search stocks daily. This is a React based application that fetches a live updated Stocks API to retrieve precise data. This project consists on 2 pages. On the one hand, we have a master page where we can visualize the Most Gainers and Most Losers Lists, and also a main Stocks List which can be filtered. On the other hand, we have a Stock Detail page. Whenever you click on an item on the Stock List, you will be redirected to the Stock Detail page using React Router.",K,Financial and insurance activities,high
+271885109,weather-app,xtrmdarc,4,0,JavaScript,"city, unsplash-api, weather, webpack","I developed a Weather application on my own in which I had the chance to consolidate my knowledge about JS Promises, Asynchronous tasks, working with APIS, and using Webpack as a module manager. The application will automatically detect your city and display its current weather time. You can also search for any other city in the world using the search bar at the top right section. Furthermore, you can select the unit of degree in which you want to get the temperature (ºC or ºF).",J,Information and communication,high
+138663301,efficient-english-dictionary-android,jsalinasvela,4,0,Java,,English dictionary that uses rest api to get data and saves to local sqlite db for more efficient search,J,Information and communication,high
+194154682,vagrant-k8s,aldenso,4,1,,"ansible, flagger, gke, istio, kubernetes, vagrant",Configure k8s with Istio and Flagger in GCloud using vagrant and ansible,J,Information and communication,high
+59713810,gitsearch,aldenso,4,1,Go,"cli, git, github",Small golang program to help you search for users or repos in github,J,Information and communication,high
+541342769,rm-vite-ts,Aireck2,4,0,TypeScript,"clean-architecture, react, redux, redux-toolkit, rick-and-morty-api, taiwindcss, typescript, vite, vite-react-typescript",Vite React app applying clean architecture for Gentleman Programming Hackathon,R,"Arts, entertainment and recreation",medium
+620960313,fnf-psych-engine-xt,DragShot,4,4,Haxe,"fnf, fnf-engine, haxe, haxeflixel, lua, psych-engine","Yet another fork of Psych Engine, now with more modding-oriented extensions!",R,"Arts, entertainment and recreation",high
+845282989,so-long,pandadiestro,4,0,C,,network process signaller/killer made in POSIX C,J,Information and communication,high
+667216826,.files,pandadiestro,4,0,Shell,"dotfiles, dotfiles-linux",Personal dotfiles and general configuration files,J,Information and communication,high
+581039685,promart_challenge,yuruyuri16,4,0,Dart,"flutter, flutter-bloc, layered-architecture",,G,Wholesale and retail trade,medium
+904984374,numeroaletras,user0608,4,0,Go,,"Librería GO para convertir un número a letras, palabras o texto.",K,Financial and insurance activities,high
+649282740,advanced-concepts,nestjslatam,4,2,TypeScript,"advanced, nestjs, nestjs-backend, typescript",This is a repository used to follow the advanced concepts official course from NESTJS,J,Information and communication,high
+170938986,install_posbox_less,chafarleston,4,9,Shell,,install_posbox_less,G,Wholesale and retail trade,medium
+103713092,reconocimiento_facial,carlosgl87,4,0,Python,,"Programa en Python de reconocimiento facial con numpy, pillow y opencv",M,"Professional, scientific activities",medium
+87868402,handwritten,jwilliamn,4,4,Python,,Hand written character and digit recognition,M,"Professional, scientific activities",high
+856663795,juliogarciape,juliogarciape,4,1,,,👋 This is my personal repo for README 💖,J,Information and communication,high
+616834983,twitch-rank,juliogarciape,4,0,JavaScript,"ranking, streaming, twitch, twitch-api, twitch-streams","A NodeJS library to discover top Twitch streams, featuring filters for country, language, or category",R,"Arts, entertainment and recreation",high
+727507174,vacocam_render,dceluis,4,0,Jupyter Notebook,"artificial-intelligence, computer-vision, ffmpeg, gpt4, gpt4-api, gpt4-vision, gpt4v",Vision-Assisted Camera Orientation,M,"Professional, scientific activities",high
+732219344,streaming-video-downloader,JuanOrbegoso,4,0,Shell,"downloader, livestream, livestreaming, streamlink, twitch",Download live streams from Twitch and other livestreaming services.,R,"Arts, entertainment and recreation",high
+360214827,Nitro-Generator-Bot-Discord,x-name15,4,5,Python,,Mass Nitro Generator Bot,J,Information and communication,high
+159854563,easy-webhook-plugin,utec,4,2,Java,,"Jenkins Plugin that can receive any HTTP post request like webhook, parse the json body, extract values using JSONPath and trigger a jenkins job with those values as job parameters.",J,Information and communication,high
+110566951,stressify,utec,4,3,Java,,100% pure Java application designed to stress http endpoints and  measure its performance simpler and powerful,J,Information and communication,high
+989653070,PotAI,adminLTR,4,0,JavaScript,,,A,"Agriculture, forestry and fishing",medium
+51882537,Cursos,noamlv,4,4,R,,,P,Education,medium
+700698814,robust-english-speech-fluency-classification,jjordanoc,4,0,Jupyter Notebook,"linguistic-analysis, machine-learning, mfcc-features, mlp-classifier, svm-classifier",Fluency level classifier of L2 English speech,P,Education,high
+513355137,ajedrez-n,jjordanoc,4,0,C++,"chess-ai, chess-game, gui-application, minimax-alpha-beta-pruning, qt6",Game GUI and AI player for a variant of classic chess,R,"Arts, entertainment and recreation",high
+56367330,gwt_socket.io,jumanor,4,0,Java,,socket.io client library for GWT,J,Information and communication,high
+101497199,iview-dashboard,itamaradin15,4,1,Vue,"dashboard, iview2, ui, vuejs",Un ejemplo sencillo de dashboard basada en Vue2 + iView2.0. ,J,Information and communication,high
+945682231,ezvg,carlosdtn,4,0,TypeScript,,A Visual Studio Code extension for previewing and converting SVG icons to React components.,J,Information and communication,high
+1077623006,larave-test,RiyanPC,4,0,Blade,,,J,Information and communication,low
+585025353,Hello-react-front-end,cmolinan,4,0,JavaScript,,This React/Redux front-end project integrates with another Ruby on Rails back-end project,J,Information and communication,high
+284489622,Northwind,juvega,4,3,TSQL,,El proposito del presente repositorio es brindar soporte al conjunto de videos creados como parte del proyecto Net Core 3.1 CRUD Web Api.,G,Wholesale and retail trade,high
+977704806,mcp-steps,williamscafdev,4,0,TypeScript,,,J,Information and communication,low
+822976176,poke_app,williamscafdev,4,1,Dart,,,R,"Arts, entertainment and recreation",medium
+678198763,EFOOD,bercode21,4,1,HTML,,EFOOD WEB SITE,I,Accommodation and food services,high
+615159717,BERCODER-ECOMMERCE-WEBSITE,bercode21,4,1,HTML,,PAGINA WEB ECOMMERCE ,G,Wholesale and retail trade,high
+558055715,portfolio,Juank628,4,0,HTML,,This is my potfolio project. I use this web site to show my most important projects. Developed using HTML and CSS.,J,Information and communication,high
+109627134,docker_ci_tools,iesussan,4,3,Shell,"docker, docker-ci, jenkins",A git repository for a docker image imagen with a set of tool to do CI / CD,J,Information and communication,high
+948651208,ReinforcementLearning,NONHUMAN-SITE,4,0,Python,,This repository contains implementations of various environments and algorithms for Reinforcement Learning,M,"Professional, scientific activities",high
+931817589,SO-ARM100,NONHUMAN-SITE,4,0,Python,,"SO-ARM100 is a low-cost robotics project exploring training methods like Imitation Learning, Reinforcement Learning, VLMs, and Diffusion Policies. It aims to enhance autonomous control and decision-making by integrating advanced AI techniques into an affordable robotic system.",M,"Professional, scientific activities",high
+920657397,MIND,NONHUMAN-SITE,4,0,Jupyter Notebook,,"This repository contains the core components of Vision Language Action Models (VLAs). It covers key research papers, architectures, in-depth conceptual explanations, implementations, and more. I hope it serves as a valuable resource to understand the 'MIND' behind these NONHUMAN entities.",M,"Professional, scientific activities",high
+224380053,mlcache,jcpazos,4,2,C,,MLCache: A Multi-Armed Bandit Policy for an Operating System Page Cache,J,Information and communication,high
+193794787,Morph-speech-dysfluencies,Fredy,4,1,Python,,"Implementation of the paper: ""Automatic classification of speech dysfluencies in continuous speech based on similarity measures and morphological image processing tools""",Q,Human health and social work,high
+659903059,nokana,alexfalconflores,4,0,,"afrodit-ui, csharp, local-first, nextjs16, notes-app, productivity, react, sqlite, tailwindcss-v4, typescipt, uwp, windows, winui","The beautiful, fast, and native note-taking experience for Windows developers. Available on the Microsoft Store.",J,Information and communication,high
+589699766,fyra-api,manwwe,4,0,Python,"asw, celery-task, celerybeat, django, django-rest-framework, docker, docker-compose, python-3, redis","🛒 Fyra is API-REST of Point of Sale (POS) project built using the Django Rest Framework (DRF) in conjunction with Docker, Redis, and Celery that allows users to manage sales transactions in a retail setting while providing a fast, scalable, and reliable solution.",G,Wholesale and retail trade,high
+715803509,dotfiles,yupanquiah,4,0,Shell,"bash, git, warp, windows, windows-terminal, wsl, wsl-debian, wsl-parrotos, zed, zsh","My personal configurations. Here you'll find my dotfiles and settings for various tools I use daily, such as zsh, vscode, and git. These files help me optimize my workflow and customize my development experience.",J,Information and communication,high
+906224123,ollama-gtt,tecncr,4,0,Go,,,J,Information and communication,low
+16075903,solanum,jose-g,4,2,Pascal,,"SOLANUM is a  user-friendly crop growth model that simulates tuber dry mass assimilation in different potato species (Solanum sp.), varieties and hybrids. The model estimates the tuber yield under potential, water limited, nitrogen limited and frost limited growing conditions.",A,"Agriculture, forestry and fishing",high
+872545,xapian-haystack,soad241,4,0,Python,,xapian-haystack,J,Information and communication,medium
+559340939,django-chart-with-nodemcu,robertcharca,4,0,Python,"api-rest, arduino, django, django-rest-framework, esp8266, react",Handbook about connecting your NodeMCU and sending HTTP request to a Django project (or any backend project).,J,Information and communication,high
+666577763,DataAnalisisGeociencias,AotinianoZ,4,0,HTML,,"Este repositorio cubre el analisis completo de la data desde su estructuracion en la base de datos hasta la comunicacion de resultado. Lo cual es un proceso complejo y largo, que pasa por diversas etapas de desarrollo geocientifico (Geodatabase, Python, R y SQL son usados como base).",B,Mining and quarrying,high
+573933210,DataAnalisisFIGMM,AotinianoZ,4,0,HTML,,Curso para una introducción de análisis de dato de la FIGMM y sobre conocimiento de base de datos.,P,Education,high
+221040347,lit-element-bind-native-props-directive,luissardon,4,0,TypeScript,"custom-elements, lit-element, lit-html, webcomponents",Lit-html directive that dynamically binds all native props from a native element with a lit-element component,J,Information and communication,high
+359161066,pkp-ark-pubid,yasielpv,4,2,Smarty,"ark, ojs, plugin","Archival Resource Keys (ARKs) serve as persistent identifiers or stable trusted references for information objects. This plugin for OJS allows managing the persistent identifier ARK for articles, issues, and galleys. Installation and configuration for the plugin is documented in English and Spanish https://github.com/yasielpv/pkp-ark-pubid/wiki",J,Information and communication,high
+304799443,nextjs-resume,franciscopantojag,4,8,JavaScript,"css, js, nextjs, reactjs",A resume web site built with Next.js.,J,Information and communication,high
+444630222,skyengine,onilsalvador,4,1,Haxe,,very epic engine (psych engine is still better than this),R,"Arts, entertainment and recreation",medium
+800545510,frasesdiadelamadre,mabelolivera10,3,0,CSS,,,R,"Arts, entertainment and recreation",medium
+790865588,teamomuchodisable,mabelolivera10,3,0,JavaScript,,,J,Information and communication,low
+790863470,corazonlatente,mabelolivera10,3,0,HTML,,,J,Information and communication,low
+752309899,MarlinDocumentation,mriscoc,3,0,,,Marlin Firmware Documentation Project,C,Manufacturing,high
+749573458,MarlinSimUI,mriscoc,3,1,C++,,Marlin Simulator UI,C,Manufacturing,medium
+914561443,DRF_NEXTJS_Blog,apholdings,3,1,TypeScript,,Blog con Django Rest Framweok y NextJS Page rrouter,J,Information and communication,high
+890000579,Django_Rest_Framework_Blog,apholdings,3,2,Python,,Aplicacion de blog usando django rest framework,J,Information and communication,high
+641133629,Curso_IoT_RaspberryPi_Avanzado,apholdings,3,0,Python,,"Curso de Internet de las Cosas con Raspberry Pi, NodeMCU y MicroPython",M,"Professional, scientific activities",medium
+636980876,apholdings,apholdings,3,0,,,,J,Information and communication,low
+581685754,DotNet_API_Example,apholdings,3,0,C#,,,J,Information and communication,low
+779086832,029_CrearDescargarExcel_ASPNETMVC,CodigoEstudiante,3,0,JavaScript,,,J,Information and communication,medium
+440707667,geemap,csaybar,3,1,Python,,"A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.",M,"Professional, scientific activities",high
+774978962,pos-react-seguridad,Franklin369,3,0,JavaScript,,,J,Information and communication,low
+767014362,pos-react-productos,Franklin369,3,0,JavaScript,,,G,Wholesale and retail trade,medium
+759222197,thanos-effect,Franklin369,3,0,JavaScript,,,R,"Arts, entertainment and recreation",medium
+751943524,pos-react-curso-hasta-seccion-categorias,Franklin369,3,0,JavaScript,,,G,Wholesale and retail trade,medium
+745743564,pos-react-login,Franklin369,3,0,JavaScript,,,G,Wholesale and retail trade,medium
+738726204,inventarios-seccion-personal,Franklin369,3,0,JavaScript,,,G,Wholesale and retail trade,medium
+721253530,nieve-react,Franklin369,3,0,JavaScript,,,J,Information and communication,low
+1008463933,Voice-control-card,BracoZS,3,0,HTML,"card, microphone, tailwind, voice-control",Voice control card component made with Tailwind,J,Information and communication,high
+834739362,sec_test_tools,JkDevArg,3,0,Python,,,J,Information and communication,medium
+1039163694,UPN_2025_2_SOLWEB,gcoronelc,3,0,Java,,Curso de desarrollo de soluciones Web con Java y Spring Boot en la UPN.,P,Education,high
+379471744,PERSONAL_LoginRegisterSocialMedia,Anders87x,3,1,JavaScript,,,J,Information and communication,medium
+379409936,qr_factory,Anders87x,3,1,,,Flutter app for scan and create a QR code,J,Information and communication,high
+985999087,Railly,Railly,3,0,Astro,,,J,Information and communication,low
+927356954,tree-sitter-grammars,marsam,3,2,Nix,,A collection of tree-sitter grammars as Nix packages,J,Information and communication,high
+483462311,KattyaCuevas,KattyaCuevas,3,0,,,,J,Information and communication,low
+213744166,dev.to,KattyaCuevas,3,0,Ruby,,Where programmers share ideas and help each other grow,J,Information and communication,high
+1092389604,HandiCraft-app-react-native,wajahat-ali-mir-dev,3,0,JavaScript,,,G,Wholesale and retail trade,medium
+1076223689,ai-recognition,wajahat-ali-mir-dev,3,0,Python,,,J,Information and communication,low
+1006031375,wajahat-ali,wajahat-ali-mir-dev,3,0,HTML,,,J,Information and communication,low
+993887646,generative-manim-physics,marcelo-earth,3,0,,,How to generate and validate physics animations using Large Language Models (LLMs) and Manim?,M,"Professional, scientific activities",high
+103877947,docker-hugo,jansanchez,3,0,Shell,"docker-image, hugo",Docker for gohugo.io,J,Information and communication,high
+91844875,api-with-loopback,jansanchez,3,0,JavaScript,"insomnia, loopback, nodejs, rest-api",API REST build with Loopback.io (NodeJS).,J,Information and communication,high
+90074165,sqlite-alpine,jansanchez,3,1,,"docker, sqlite3",A Docker image for SQLite + Linux Alpine,J,Information and communication,high
+89101754,nocker-wheezy,jansanchez,3,1,Dockerfile,"docker, docker-image, node, yarn",An Image for Node.js based in Debian Wheezy,J,Information and communication,high
+1056242455,aws-kubernetes-attacker-defender,mario21ic,3,0,,,,J,Information and communication,high
+482632143,CENSO-ESCOLAR-INDICADORES-STATA,ljporras,3,1,Stata,,Sintaxis en Stata para estimar indicadores educativos.,P,Education,high
+524715094,API-Tests-Compose,jesulink2514,3,1,C#,,,J,Information and communication,medium
+787700698,ECommerceWeb-2024,erickorlando,3,0,C#,,Repositorio del proyecto ECommerce de Galaxy Training,G,Wholesale and retail trade,high
+766187646,PortalGalaxy2024,erickorlando,3,0,C#,,Proyecto de Aplicaciones Empresariales version 2024,M,"Professional, scientific activities",medium
+745934237,ecommerceweb-galaxy,erickorlando,3,0,C#,,Repositorio del Proyecto de Blazor WebAssembly con .NET 7.0,G,Wholesale and retail trade,high
+551668234,webinarmysql,erickorlando,3,0,C#,,,J,Information and communication,low
+1155828877,espik,crafter-station,3,0,TypeScript,,,J,Information and communication,low
+1151213993,mermaid,crafter-station,3,0,TypeScript,,lightweight zero-dependency mermaid renderer,J,Information and communication,high
+1149920761,codebrew.tech,crafter-station,3,1,TypeScript,,,J,Information and communication,low
+1146767881,cadence,crafter-station,3,0,TypeScript,,,J,Information and communication,low
+410782187,deepinbtrfs,CodigoCristo,3,2,Shell,,,J,Information and communication,medium
+356109573,ArcrisGTK,CodigoCristo,3,0,C,,Graphic Installer Arch Linux developed in GTK,J,Information and communication,high
+474216581,blog-with-next-js,lavaldi,3,2,JavaScript,,Blog con Next.js + Contentlayer + MDX + TailwindCSS,J,Information and communication,high
+212469467,rae-chrome-extension,lavaldi,3,0,JavaScript,"chrome-extension, dle, rae",Extensión para buscar palabras en el DLE mediante la omnibox,J,Information and communication,high
+1085192807,htop_top_abusers,romelgomez,3,1,JavaScript,,,J,Information and communication,medium
+18310651,BooTweet,Dedal0,3,5,CSS,,PHP Script for tweeting with the server's IP Address,J,Information and communication,high
+955350614,CV_Miss_Yera,gflores1092,3,3,TeX,,,M,"Professional, scientific activities",medium
+106707957,curricula-ux,lalogf,3,1,,,Currícula UX en Laboratoria,P,Education,high
+632808374,lcd,storres20,3,0,,,This repository contains all of the code for interfacing with a 16x2 Character I2C LCD Display. This accompanies my YouTube tutorial here: https://www.youtube.com/watch?v=fR5XhHYzUK0,M,"Professional, scientific activities",medium
+555844273,pecc_hackathon,PCPUNMSM,3,2,Jupyter Notebook,,,J,Information and communication,low
+416506837,WPFPricingCard,Jeyderht,3,3,C#,,,J,Information and communication,medium
+840885522,exam-management-system-backend,JosephLlacchua,3,0,Java,,"Backend API developed with Spring for exam management system. It manages exam creation, student registration and response processing.",P,Education,high
+1051652231,pg_multitenant_schemas,rubenpazch,3,0,Ruby,,,J,Information and communication,medium
+434039976,budgetapp,sheylaPozo,3,0,Ruby,,A mobile web application where you can manage your budget.,K,Financial and insurance activities,high
+423506637,helloRails,sheylaPozo,3,0,Ruby,,setup Rails,J,Information and communication,high
+422925543,Catalog-of-things-capstone,sheylaPozo,3,0,Ruby,,"This project is a console app that will help you to keep a record of different types of things you won: books, music albums, movies, and games. The data will be stored in JSON files but has also prepared a database with tables structure analogical to your program's class structure.",R,"Arts, entertainment and recreation",high
+422219122,ruby-school-library,sheylaPozo,3,0,,,,P,Education,high
+416723948,MyEnumerable,sheylaPozo,3,0,,,"A program built in ruby to replicate the any?, all? and filter enumerables.",J,Information and communication,high
+416723832,Ruby-Morse-Decoder,sheylaPozo,3,0,,,This is a basic Ruby program that Decodes messages written in Morse Code,J,Information and communication,high
+1052447776,Credit-Scoring-Credit-Control-XIX,john-caballero,3,6,Python,,,K,Financial and insurance activities,high
+683314525,Recommender-Systems,john-caballero,3,5,Jupyter Notebook,,,J,Information and communication,medium
+7831311,limagamejam,xenda,3,1,Ruby,,,R,"Arts, entertainment and recreation",medium
+360775576,EmergentProperties,ArturoDeza,3,0,Python,,Code + Data for paper Emergent Properties of Foveated Perceptual Systems,M,"Professional, scientific activities",high
+338649272,Probability-Distributions-for-hydrology-with-MATLAB,GeomarPerales,3,0,MATLAB,hydrology,scripts developed for statistical hydrology - IMF - UNMSM.,E,Water supply; sewerage,high
+19754494,gonion,CoreyKaylor,3,0,Go,,Simple golang route & middleware composer,J,Information and communication,high
+580978732,backend-g10,ederivero,3,1,,,,J,Information and communication,low
+503154095,Elearning-backend-g7,ederivero,3,1,,,,P,Education,high
+549245204,leasy-frontend,jamesrhurtado,3,0,Vue,vue,Leasy Project (Finances and Economic Engineering at UPC),K,Financial and insurance activities,high
+595812568,marko,yusshu,3,0,JavaScript,"bot, discord, discord-bot, discord-js, markov-chains, node-js",Marko is a Discord bot that sends random messages based on previous chats using Markov Chains,J,Information and communication,high
+373389992,command,yusshu,3,0,Java,,Java command parsing and building library,J,Information and communication,high
+563620330,codember,xavimondev,3,1,JavaScript,"codember, javascript",Repositorio con todos los retos del codember 🚀,J,Information and communication,high
+1137991546,Rick-And-Morty-KMP,carlosgub,3,0,Kotlin,,Repositorio creado para el curso de YT,R,"Arts, entertainment and recreation",medium
+930975562,rendicion_cuentas,JulianB0315,3,1,PHP,"codigniter4, javascript, mysqli, php7",,O,Public administration and defense,medium
+112235836,cl-xmlspam,defunkydrummer,3,0,Common Lisp,"common-lisp, xml",Roger Peppe's Common Lisp XML Stream PAttern Matcher,J,Information and communication,high
+872687970,fastaudiosocket,pablodz,3,0,Go,,high performant audiosocket,J,Information and communication,high
+1105588216,DevFestIca25-Activity2,Dav082004,3,0,JavaScript,"copilot, mcp-server",Actividad 2 GitHub MCP Server y Agentes,J,Information and communication,medium
+1094538710,XperienceCampusWorkshop,Dav082004,3,21,HTML,"git, github, open-source","Taller colaborativo para aprender Git, GitHub y desarrollo web usando Codespace. ¡Contribuye agregando tu perfil y practica el flujo profesional de colaboración open source!",J,Information and communication,high
+640118116,carrito-compras-flotante,juliocesardw,3,1,HTML,,,G,Wholesale and retail trade,high
+277863442,diseno-formulario-login-registro,juliocesardw,3,2,JavaScript,,Diseñando un Formulario de Login y Registro - HTML - CSS - JS,J,Information and communication,high
+270557973,icpc-solutions,ManuelLoaizaV,3,0,C++,,,P,Education,high
+1130865824,mini-transformer-didactico,macespinoza,3,0,Jupyter Notebook,"attention-is-all-you-need, deep-learning, education, natural-language-processing, nlp, pytorch, transformers","Implementación didáctica de un Transformer Encoder–Decoder basada en Attention Is All You Need, diseñada para entender la arquitectura y el flujo de atención desde cero, usando un dominio acotado en español.",P,Education,high
+824094307,ionic-rating-component,nelson6e65,3,3,TypeScript,,A component for rating in Ionic 6/7. Show evaluation. A quick rating operation on something.,I,Accommodation and food services,medium
+304422536,Augmented-Reality-App-Flutter,heygonzalocaira,3,0,Dart,,Augmented Reality App Flutter,R,"Arts, entertainment and recreation",medium
+21760921,EasyDash-PHP,elbereth,3,10,PHP,,A simple class for making calls to Dash's RPC API using PHP.,K,Financial and insurance activities,high
+713123163,android-interview-questions,Android-Dev-Peru,3,0,,,Android Interview Questions,J,Information and communication,high
+511154486,ChatFlutter,PaulGuillen,3,0,Dart,"dart, flutter-image-compress, get, http, image-picker, nodejs, progress-dialog, socket-io",Chat made in dart ,J,Information and communication,high
+476129405,AppReservaJava,PaulGuillen,3,0,Java,"calendar-view, firebase, firebase-auth, firebase-database, java-android-application, kotlin-android, retrofit2",App made in java with firebase also using kotlin to add mercado pago developers,I,Accommodation and food services,medium
+454504905,DeliveryBackend,PaulGuillen,3,1,JavaScript,"backend-services, firestorage, nodejs, socket-io, sql, token","Backend from DeliveryApp, in this project i will show u how it works backend logic",I,Accommodation and food services,high
+447042577,Sistema-Experto-Medico,PaulGuillen,3,0,Java,"espanol, expert-system, java, medical",Sistema Experto Medico - Proyecto Universitario - Java,Q,Human health and social work,high
+921766513,explorando-el-hub-de-qgis,geografope,3,0,,"geografia, geografia-computacional, geografope, peru, qgis","✨ Este repositorio 📁 te guiará paso a paso para explorar el Hub de QGIS 🚀, donde encontrarás recursos adicionales 🛠️ que te ayudarán a llevar tu flujo de trabajo en Sistemas de Información Geográfica (SIG) al siguiente nivel 🌍💡",M,"Professional, scientific activities",high
+874995942,ideas-tutorial,geografope,3,0,,"ciencia-de-datos-espaciales, geografia-computacional, geografope","📂 Este repositorio reúne una colección de ideas, debates 💭, y sugerencias 💡 que han sido recomendadas por la comunidad 🌐. Su propósito es inspirar y facilitar la creación de contenido creativo 🎥✨ para YouTube y otras redes sociales 📱📸🎬",R,"Arts, entertainment and recreation",high
+19351744,py-mongo-for-devs,puentesarrin,3,2,Python,,Python y MongoDB para desarrolladores,J,Information and communication,high
+97803993,R-for-Analytics,EDavidAQ,3,1,R,,,M,"Professional, scientific activities",medium
+675557953,catalog-things-ruby,lordksix,3,2,Ruby,"postgresql, ruby","*Catalog of my things is a console application we the user can create, list, save and load movies, books and music albums.",R,"Arts, entertainment and recreation",high
+669969212,portfolio-v2,lordksix,3,0,TypeScript,"focus-trap-react, framer-motion, next-intl, next-themes, nextjs, radix-ui, react-hook-form, react-icons, swiper, vercel-analytics",Dynamic portfolio with english and spanish version with mongodb connection,J,Information and communication,high
+184479188,AlexaLive-TestingBestPractices,jkelvie,3,0,JavaScript,,Code behind the Testing Best Practices session from Alexa Live conference,J,Information and communication,high
+181082378,ClassicMovieMusts,jkelvie,3,1,JavaScript,,An Alexa Skill Sample showing how to build a quiz game skill.,R,"Arts, entertainment and recreation",high
+239944408,lrp-registromedico,karenciita,3,6,JavaScript,,medical record,Q,Human health and social work,high
+222370662,LRP-Farmcyc,karenciita,3,6,Lua,,crab and shrimp collection system,A,"Agriculture, forestry and fishing",high
+1123542310,databricks-de-professional,DanielEdu,3,2,,,,J,Information and communication,low
+601692699,netsuite-edi-generator,felipechang,3,0,JavaScript,,UI based EDI formatter for NetSuite,G,Wholesale and retail trade,high
+854307964,Equipo-4,FooTalentGroup,3,3,JavaScript,,,J,Information and communication,low
+820642001,Lingualab,FooTalentGroup,3,0,JavaScript,,,J,Information and communication,low
+850199190,go-linkding,piero-vic,3,1,Go,,Go client for the Linkding API,J,Information and communication,high
+461939880,catalog-of-my-things,piero-vic,3,1,Ruby,microverse,,J,Information and communication,low
+430972752,watermelondb-server,jhonatanmacazana,3,0,TypeScript,,Server to allow synchronization of watermelonDB instances.,J,Information and communication,high
+667495597,get-that-home-frontend,NunezGabriel,3,1,JavaScript,,an application to buy and sell homes ⚛️,L,Real estate activities,high
+209324023,custom_color_palette,joaohenry23,3,3,Python,,Python package to create a custom color palette.,M,"Professional, scientific activities",medium
+1032856977,dotnet-api-clean-architecture,sergiomauz,3,0,C#,,"This is a basic microservice to manage a school with courses, teachers, students and enrollments, using C#, SQL Server and Clean Architecture",P,Education,high
+304749661,React-Adopt-Me,sergiomauz,3,1,JavaScript,"adoption, api, css3, es6-javascript, html5, minify, netlify, react","It is a Front-End built using ReactJS, which consumes the API of Pet Finder. The idea was to build a website for adopting a pet in the United States.",S,Other service activities,high
+252107370,SQL-Exercises-sqlzoo.net,sergiomauz,3,0,TSQL,,It is a repository with SQL exercises taking into account the a database named SQLZOO,P,Education,high
+952789223,ALGO_SI205_Y_2025I-test,nestoraudante,3,0,,,de prueba,J,Information and communication,low
+722106926,wrf_aulas,adelgadop,3,0,Shell,,This is a project for educational purposes about learning WRF-Chem.,P,Education,high
+281516656,PythonEmissData,adelgadop,3,0,Jupyter Notebook,,Get vehicles information to feed wrfchemi_cbmz_fc.ncl,D,"Electricity, gas, steam supply",medium
+271937254,PythonObsData,adelgadop,3,1,Jupyter Notebook,,We have scripts to download air quality and meteorological data from CETESB station networks.,D,"Electricity, gas, steam supply",medium
+329920746,Christmas-Lights,Danielalab,3,0,CSS,"animation-css, christmas-lights",🎄 Link demo:  https://danielalab.github.io/Christmas-Lights/index.html,R,"Arts, entertainment and recreation",high
+759576342,Nailfold-Capillary-Detection,GraceSevillano,3,2,Jupyter Notebook,"counting-capillary, counting-objects, image-enhancement, image-processing, nailfold-capillary, vibot","Traditional Image Processing Techniques for Nailfold Capillary Detection: A project showcasing a non-ML/DL approach to detect and count nailfold capillaries, emphasizing the application of fundamental image analysis methods in medical diagnostics.",Q,Human health and social work,high
+519411289,interactive-comments-section,dannxvc,3,3,JavaScript,,A comment section that allows the current user to interact with four functionalities (CRUD).,J,Information and communication,high
+678685575,React_Tutorial,JuanDiegoGuerra,3,0,,,"In this exercise, you are going to consolidate your knowledge about React, components, props, state, and hooks, by following a tutorial.",J,Information and communication,high
+641578498,Try-Gitflow,JuanDiegoGuerra,3,0,,,"In this exercise, you will practice Gitflow with an empty repo.",J,Information and communication,high
+641026622,Git-Bistec-Practice,JuanDiegoGuerra,3,0,,,Experimental git repository to practice git bistec.,J,Information and communication,high
+639112121,Testing-Practice,JuanDiegoGuerra,3,0,HTML,,"In this exercise, you will write a few practical tests for JavaScript functions using the Jest library.",J,Information and communication,high
+637951790,JS-BestPractices,JuanDiegoGuerra,3,0,JavaScript,,Now it is time for you to perform a code review for your partner!,J,Information and communication,high
+567490910,salad-gallery-using-css,malpicado,3,0,CSS,,Salad themed image gallery (for vegans and the like) using pure CSS,I,Accommodation and food services,high
+567046335,cronometro-css-puro,malpicado,3,0,CSS,,"Este cronómetro está construido con HTML y CSS puro sin integrar funcionalidades en JavaScript ""giño giño--incrédulos""",J,Information and communication,high
+557558050,De-NOOB-a-PRO-en-JavaScript,malpicado,3,0,JavaScript,,Todos los ejercicios para mejorar nuestra lógica de programación en JavaScript,P,Education,high
+524238923,guia-html-para-principiantes,malpicado,3,0,HTML,,Escrito 100% en HTML,P,Education,high
+207927203,cookbook,edeustua,3,0,TeX,,A cookbook with multiple sources of inspiration,I,Accommodation and food services,high
+621490037,skillswap,dalessandro07,3,0,TypeScript,,Plataforma para compartir proyectos y experiencias. Comparte tu conocimiento y haz crecer tu talento en SkillSwap.,P,Education,high
+538521540,spanish-word-to-number,dalessandro07,3,0,TypeScript,,Converts Spanish words like 'doscientos treinta y cuatro' to numbers '234'.,J,Information and communication,high
+400868222,Plant_Science,FranciscoAscue,3,1,,,Taller de transcriptomica - Journal Club UNMSM ,A,"Agriculture, forestry and fishing",high
+1134395857,TaleMessage,InsiderAnh,3,0,Java,,A MiniMessage style utility for Hytale that allows easy creation of formatted messages using HTML style tags.,R,"Arts, entertainment and recreation",high
+285691255,UltraBreezly,InsiderAnh,3,3,Java,,UltraBreezly public breezly plugin,J,Information and communication,low
+1024824532,ML-Mnist-kubernetes,CristianLazoQuispe,3,0,Python,,,M,"Professional, scientific activities",medium
+829533112,ClusteringImageEmbeddings,CristianLazoQuispe,3,1,Jupyter Notebook,,,M,"Professional, scientific activities",medium
+791467422,WholebodyPoseEstimation,CristianLazoQuispe,3,1,Jupyter Notebook,,,M,"Professional, scientific activities",medium
+504308501,SearchRickAndMorty,EduDev06,3,1,Kotlin,"android, android-clean-architecture, android-mvvm, coil-image-loader, coroutines, hilt-compose, hilt-dependency-injection, jetpack-compose, kotlin, kotlin-flow-paging, retrofit2, room, room-persistence-library",SearchRickAndMorty is an app that search characters from Api Rick And Morty. It use single source of truth of data and uses MVVM - Jetpack Compose - Room - Retrofit and more libraries,R,"Arts, entertainment and recreation",high
+457518277,Calculator,EduDev06,3,1,Kotlin,"jetpack-compose, kotlin-android","Calculator is an application that mimics the basic operations of a real life calculator. Perform operations of multiplication, division, subtraction, addition. It is developed with Jetpack compose and the Rhino library.",J,Information and communication,high
+372342347,solana-validator-ansible,softalchemy,3,1,Shell,,,K,Financial and insurance activities,high
+22159486,Mi-primera-web,henrychavez,3,6,JavaScript,,Archivos utilizados para hacer un sitio web basico con html5 y css3,J,Information and communication,high
+14945834,menu_desplegable_css3,henrychavez,3,5,CSS,,Menu desplegable con html5 y css3,J,Information and communication,high
+487240625,heroes-fullstack,master-bogdan,3,0,TypeScript,"backend, frontend, fullstack-javascript, javascript, nodejs, react, typescript",Fullstack (React + Nodejs) heroes app,J,Information and communication,high
+366812726,fulllstack-auth,master-bogdan,3,0,JavaScript,"ant-design, authorization, backend, express, fullstack-javascript, logout, nodejs, react",Simple authorization app on React + NodeJS tech stack ,J,Information and communication,high
+1101699197,BrainFlow-HackPlatanus,A-PachecoT,3,1,TypeScript,,,J,Information and communication,low
+709536811,openai-functions-rust,minskylab,3,0,Rust,,,J,Information and communication,medium
+1106786118,notebooks,Rotvie,3,0,Jupyter Notebook,,"A collection of practical notebooks covering deep learning, data science, math, and other topics.",M,"Professional, scientific activities",high
+427768811,ransac-lidar-ros,Rotvie,3,3,Python,"gazebo, ransac, ros",RANSAC Line Fitting for Data from a Simulated LiDAR in Gazebo,M,"Professional, scientific activities",high
+477246743,ZigLink,daneelsan,3,0,Mathematica,"wolfram-language, zig",Call Zig code from Wolfram Language via the LibraryLink interface.,M,"Professional, scientific activities",high
+129865432,ExternalBrowserLite,bryanjhv,3,0,Java,,Open Facebook Lite links in external browser instead of in-app one...,J,Information and communication,high
+311855383,angular-folder-structure-examples,jcyovera,3,1,HTML,,,J,Information and communication,high
+397790340,StacksNavigatorExpo,Gonzalogdlr,3,0,JavaScript,,A recopilatory of Stacks Navigators  (Expo-ReactNative),J,Information and communication,high
+340955936,To-Do_List,kcotrinam,3,0,JavaScript,,,J,Information and communication,high
+335846695,weather-app,kcotrinam,3,0,JavaScript,"async-await, css-loader, es6, flexbox, grid-layout, html5, htmlwebpackplugin, javascript, minicssextractplugin, sass, sass-loader, webpack",Thi is a webapp made to show the temperature in the city you enter through the input. This app uses opweather API in order to get the information.,J,Information and communication,high
+903282639,linux-eva,csl-club,3,0,Go,,Half bot half linux evangelist,J,Information and communication,high
+185140887,nodejs-express-es10,Luiggi370z,3,1,JavaScript,,REST Api with nodeJS + express + ES10 + mongoose + events,J,Information and communication,high
+147287194,vue-starter,Luiggi370z,3,1,JavaScript,"vue-router, vue-starter, vuejs2, vuex","Starter Vue app with SCSS + Vuex + Router + Mocha/Chai + Nightwatch, eslint, formatting",J,Information and communication,high
+58516746,racket-torrent,ivoscc,3,1,Racket,,My attempt at bulding a torrent client in Racket,J,Information and communication,high
+159710720,Keras_Introduction,leo2105,3,4,Jupyter Notebook,"cnn, computer-vision, keras",Introduction to Keras applying CNN and RNN,M,"Professional, scientific activities",high
+359274846,Speedplanner-Mobile-App,GinoQuispe21,3,0,Dart,,":tada: Repositorio para el proyecto final del curso : ""Aplicaciones para Dispositivos Móviles"" para la aplicación Speedplanner. :iphone:   ",P,Education,high
+333973901,GitHub-Project,GinoQuispe21,3,0,CSS,"github-api, react, wapo",:rocket: React application using the Github API :rocket:,J,Information and communication,high
+724574176,orm.py,hackanonimous,3,0,Python,,,J,Information and communication,medium
+269493493,jwt-passport,AngelRodRo,3,3,JavaScript,,JWT Passport implementation with Express.js for educational purposes for my youtube channel.,J,Information and communication,high
+280463347,react-calculator,xtrmdarc,3,0,JavaScript,,,J,Information and communication,high
+267709840,js-restaurant-page,xtrmdarc,3,0,,,,I,Accommodation and food services,high
+243311429,Tic-tac-toe,xtrmdarc,3,0,Ruby,,,R,"Arts, entertainment and recreation",high
+528485343,diazgio.github.io,diazgio,3,0,JavaScript,,,J,Information and communication,low
+230512012,pulumi_demo_gcp,aldenso,3,1,,"gcp, gcp-compute, pulumi, pulumi-python, pulumi-typescript",Pulumi demo using Google Cloud Platform,J,Information and communication,high
+758276125,GenerativeAI-Code,aquevedos,3,0,Python,,,J,Information and communication,low
+555749741,PDD_model,cryohydromettools,3,0,Jupyter Notebook,,"This is a repository where we share some functions for estimating glacier surface melt and runoff on the north Antarctic Peninsula, using the Positive Degree Day (PDD) approach and ERA5 reanalysis data.",M,"Professional, scientific activities",high
+228420146,scantools,fortepc,3,0,AutoHotkey,,A collection of scripts and tools to help optimize my job,J,Information and communication,medium
+599346825,airflow-space-exploration,jhonathanssegura,3,1,Python,,Final project of the basic Airflow course in Platzi within the Platzi Space Program.,M,"Professional, scientific activities",high
+692128387,setbase,pandadiestro,3,0,Go,"boolean, boolean-algebra, database",The boolean algebra-based dataset database.,J,Information and communication,high
+669552588,alura-challenges,victorlunam,3,0,JavaScript,,Explicacion de cada Alura Challenge,J,Information and communication,medium
+719181502,pg-connection,user0608,3,1,Go,,GORM postgres abstraction,J,Information and communication,high
+589105816,FLutter-Web-Google-Maps-Iframe,edwinmacalopu,3,0,Dart,,🌎 🚩,J,Information and communication,medium
+488398789,yams,rodp63,3,0,Python,"media, news, scraper, scrapy",A simple Python scraper to collect data from the most popular Peruvian news sites,J,Information and communication,high
+416396343,Proyecto_tienda_app,FrankLopezFLB,3,1,JavaScript,,This is a project developed in .net with sql Server.,G,Wholesale and retail trade,high
+1173961545,lazycider,stiffis,3,0,Go,"apple-music, bubbletea, cider, cider-2, go, kitty, kitty-graphics-protocol, linux, lipgloss, terminal-image, tui","A modern terminal UI for Cider (Apple Music), built in Go, with playback controls, playlists, lyrics fallback, and multi-panel search.",R,"Arts, entertainment and recreation",high
+146551590,ai_trading,carlosgl87,3,0,Jupyter Notebook,,My notebooks from the nanodregree program AI for Trading of Udacity,K,Financial and insurance activities,high
+856558828,web-pdf-saver,juliogarciape,3,0,JavaScript,,Save a web page as a PDF file using Puppeteer,J,Information and communication,high
+855420809,expressjs.com,juliogarciape,3,0,HTML,,,J,Information and communication,high
+850937313,fakeyou,juliogarciape,3,0,JavaScript,"fakeyou, fakeyou-ai, fakeyou-api, fakeyou-js",Example code for a modern wrapper for the FakeYou API with its latest features,J,Information and communication,high
+850567123,graphql-node-postgresql,juliogarciape,3,0,JavaScript,,This is a simple project to demonstrate how to use GraphQL with NodeJS and PostgreSQL,J,Information and communication,high
+849054510,crypi,juliogarciape,3,0,JavaScript,"algorithms, caesar-cipher, encryption-decryption, security-library, security-tools",A fun and simple security library for NodeJS with easy integration,J,Information and communication,high
+847363324,es.react.dev,juliogarciape,3,0,TypeScript,,React documentation website in Spanish / Documentación del sitio web de React en Español,J,Information and communication,high
+790536919,data-structures-and-algorithms,juliogarciape,3,0,Python,"algorithms, data-structures, data-structures-and-algorithms, python, python3",<Data Structures and Algorithms with Python />,M,"Professional, scientific activities",high
+590629356,my-roadmap,juliogarciape,3,0,,,</>,J,Information and communication,low
+590615269,technical-tests,juliogarciape,3,0,JavaScript,,<Technical tests I found to improve my programming logic />,J,Information and communication,high
+566579717,softkit,juliogarciape,3,0,PHP,,,J,Information and communication,low
+564514102,netflix-ionic-clone,juliogarciape,3,0,TypeScript,,<Netflix />,R,"Arts, entertainment and recreation",high
+558740278,instagram-ionic-clone,juliogarciape,3,0,TypeScript,,<Instagram clone Ionic />,J,Information and communication,high
+558663673,noticias-ionic,juliogarciape,3,0,TypeScript,,,J,Information and communication,medium
+535252529,web-service-worker,juliogarciape,3,0,HTML,,<Página web disponible sin conexión a Internet />,J,Information and communication,high
+535244479,mini-juego-css,juliogarciape,3,0,CSS,,<Esquiva los meteoritos en un juego de Ovnis />,R,"Arts, entertainment and recreation",high
+535147065,chinder-node,juliogarciape,3,0,EJS,,<Desliza a la izquierda o a la derecha para mostrar tu interés />,R,"Arts, entertainment and recreation",medium
+534938176,tuitapi-node,juliogarciape,3,0,JavaScript,,<Api Rest para crear tu propio Twitter />,J,Information and communication,high
+331978869,recipes_scraper,jadx2,3,0,Ruby,,A web scraper for the Allrecipes website to display the top recipes by category with a user-friendly terminal application. built with Ruby.,I,Accommodation and food services,high
+317266193,tnw_responsive,jadx2,3,0,HTML,,A responsive replica of The Next Web webpage,J,Information and communication,high
+140496089,itunes-api-example-using-codable,santos88,3,0,Swift,,itunes-api-example-using-codable,J,Information and communication,high
+940875547,mcp-hackathon,dceluis,3,1,Python,,,J,Information and communication,low
+861473283,ansible-workstation,JuanOrbegoso,3,0,Jinja,"ansible, ansible-playbook, debian, linux, ubuntu, workstation, xfce4",Set up a fully featured Workstation using a single Ansible script 🚀,J,Information and communication,high
+744236414,GraphV,nhrot-fc,3,0,C,,GraphVisualizer,M,"Professional, scientific activities",medium
+30595975,VaadinSpringShiroMongoDB,jvalenciag,3,0,Java,,Example of integration,J,Information and communication,medium
+1159937981,moodle-local_integrationhub,x-name15,3,0,PHP,"amqplib, api-gateway, api-rest, architecture-srv, event-driven, gateway, integration-hub-for-moodle, lms-algorithm, lms-website, microservices, microservices-architecture, middleman, moodle, moodle-integration-hub, moodle-local, moodle-plugin, moodle-plugins",Integration Hub is a local Moodle plugin designed to centralize and manage outgoing integrations with external microservices,P,Education,high
+615890725,code-xplain-extension,willianuk,3,0,TypeScript,,Codexplain is a Chrome extension that uses OpenAI's API to provide detailed explanations of any code on a web page. Simply select the code and a popover will appear with relevant information.,J,Information and communication,high
+1456622,SimpleZend,jfabian,3,0,,,Library for Zend Framework usage Simplepie,J,Information and communication,high
+318297466,t-rext,utec,3,4,Java,,T-Rext is a java framework which allows you to automate rest APIs with a rich set of fluent assertions. Its natural assertions and truly helpful error messages improves test code readability and is designed to be super easy for even non-programmers.,J,Information and communication,high
+418268274,login_android-studio-PHP_MYSQL,guerrerosystem,3,3,Java,,login php mysql,J,Information and communication,high
+818452203,algorithms-masterclass,deep-skill,3,1,Jupyter Notebook,,Algorithm & Data Structures Masterclass,M,"Professional, scientific activities",high
+755596371,apple-jwt-generator,ubinatus,3,0,TypeScript,,Yet another package to generate an Apple Secret for SIWA.,J,Information and communication,high
+535112566,diamond-diff,ubinatus,3,0,TypeScript,,Tool to compare an EIP-2535 Diamond against another Diamond,K,Financial and insurance activities,high
+909120845,sihsalus-distro-referenceapplication,sihsalus,3,0,Shell,,"The reference distribution of the OpenMRS EMR application for Peru HCE distro ""SIH SALUS""",Q,Human health and social work,high
+1098552096,SPADE-Demo-Planes,LiamQuinoNeff,3,0,Python,"agents, air-traffic, demo, education, multi-agent, python, simulation, spade, xmpp",Simulación de control de tráfico aéreo con agentes SPADE (Python) en donde se coordinan aterrizajes con agentes de Torre y Aviones.,H,Transportation and storage,high
+673459927,LiamQuinoNeff,LiamQuinoNeff,3,0,,"config, github-config",Config files for my GitHub profile.,J,Information and communication,high
+238547288,newsweek-clone,bren2102,3,0,HTML,"bootstrap, html",This is an HTML website using bootstrap that matches the appearance of the website Newsweek,J,Information and communication,high
+235152024,Building-with-backgrounds-and-gradients,bren2102,3,0,HTML,,,J,Information and communication,high
+985742349,cmm-documentation,GunpowderGuy,3,0,Haskell,,GSoC project to documment and improve the tooling for cmm ( GHC ),J,Information and communication,high
+888796551,fresh-disk-ann,jjordanoc,3,0,C++,,,J,Information and communication,low
+762816711,double-pendulum-fractal,jjordanoc,3,0,Fortran,"fractals, open-mpi, parallelism, physics-simulation",Implementation of the double pendulum fractal with parallelism for simulation,M,"Professional, scientific activities",high
+1167074785,beca18-consulta,raulsedano2410,3,1,TypeScript,,,J,Information and communication,low
+98238872,react-digital-music,vanessapr,3,1,JavaScript,"firebase, foundation-sites, nodejs, react, react-redux, redux-saga, sass",A small application made with react tools and Firebase,R,"Arts, entertainment and recreation",high
+173360769,MPM,dpalominop,3,0,C,,Implementation of the Material Point Method using C++ and Cuda.,C,Manufacturing,medium
+165146762,PTAM,dpalominop,3,0,C++,,PTAM using C++ with supported for linux,M,"Professional, scientific activities",medium
+898023061,firmaperu-invoker,jumanor,3,4,Go,"firma, firmaperu","Motor de Firma Digital - Firma Perú Invoker - SGTD PCM, permite firmar varios documentos digitales con DNIe y certificados de persona jurídica. El proceso de firma es transparente y natural para los usuarios.",O,Public administration and defense,high
+36377400,sisacademico,jumanor,3,2,JavaScript,, Aplicativo para probar Intel XDK App Framework con Phonegap y Node,P,Education,medium
+126720616,CoffeeMakerKotlin,ivanph1017,3,0,Kotlin,"android, coffee, coffee-machine, coffeemaker, firebase, firebase-database, gpio, javacript, kotlin, nodejs, raspberry, raspberry-pi, raspberry-pi-3, raspberrypi, sensor","This is part of a project to manage a coffee maker at home from a Android mobile phone. It's made up of an Android app written in Kotlin as the front-end, Firebase service as the back-end and Raspberry PI 3 as a single board computer with a script written in Javascript running on Node.JS and integrated to a coffee maker with water level sensors.",I,Accommodation and food services,high
+620465643,portfolio,carlosdtn,3,0,TypeScript,"nextjs13, tailwindcss, typescript",My personal portfolio showcasing my work and projects 📁,J,Information and communication,high
+234424589,react-rails-events,AnthonyTC89,3,0,JavaScript,,Final capstone project,J,Information and communication,medium
+231661315,react_calculator,AnthonyTC89,3,0,JavaScript,,,J,Information and communication,high
+215152843,Facebook_Like,AnthonyTC89,3,2,Ruby,,Facebook-like social network application.,J,Information and communication,high
+534865285,taller-python-linguistas,lab-humanidades-digitales-pucp,3,6,Jupyter Notebook,"computational-linguistics, digital-humanities, linguistics, pucp, python",Introducción a la lingüística computacional con Python,M,"Professional, scientific activities",high
+992168351,Finovate-beta,samuelbonifacio015,3,0,TypeScript,,Finovate App,K,Financial and insurance activities,high
+987750460,JavaScript-From-0-to-100,samuelbonifacio015,3,0,JavaScript,,JavaScript From 0 to 100,J,Information and communication,high
+972786819,AguaConnect,samuelbonifacio015,3,0,CSS,,Landing Page de AguaConnect ,E,Water supply; sewerage,high
+831762485,landing-page,mtocommunity,3,4,Astro,"community-project, landing-page, manytoone, mto, website",Landing page of Many To One Community,S,Other service activities,medium
+565913360,Catalog-of-my-things,cmolinan,3,1,Ruby,,"In this project, we created a console app that will help you to keep a record of different types of things you won: books, music albums, movies, and games. Everything based on the UML class diagram. The data stored in JSON files but we also prepared a database with tables structure analogical to our program's classes structure.",R,"Arts, entertainment and recreation",high
+451444595,fcl-nuxt-starter,brunogonzales,3,3,Vue,"flow, nuxt, nuxtjs, vue",Starter Nuxt template with Flow Client Library pre-installed.,J,Information and communication,high
+668446502,programacion02,JesusHuayhua,3,1,C++,"cpp, programming-language, university-course",Resumen de las clases y resolucion de evaluaciones pasadas,P,Education,high
+639682210,mailing_system,Wusinho,3,0,Ruby,,"Automate email storage, prevent duplicates, validate email format, enforce preference selection, and confirm subscriptions via email. Verify email existence using API score. Enable internationalization for landing page. Engage users with survey for discount coupon.",J,Information and communication,high
+239841891,01-devProject-back,cristhianLaurente,3,0,TypeScript,,,J,Information and communication,low
+637893499,ani_expanded_container,williamscafdev,3,0,C++,,dynamic container animation on hover,J,Information and communication,high
+622130529,MaestroDetalleSqlServer,programadorescs,3,1,Kotlin,,"Ejemplo de una aplicación de maestro-detalle que utiliza SQL Server como base de datos y el controlador JTDS para conectarse a la misma, ademas de implementar el patrón MVVM e inyección de dependencias con Dagger Hilt.",J,Information and communication,medium
+350086729,ruby-e1-calencli,kenqefh,3,0,Ruby,"calendar, cli, rubocop, ruby, teamwork",A project of calendar in CLI,J,Information and communication,high
+294519800,CS-GO-Observer-Custom-HUD,DeivyPereira,3,0,JavaScript,,Observer Custom HD de Counter Strike realizado para @5KSports - DeivyPereira,R,"Arts, entertainment and recreation",high
+969376705,ksp-devexp,gyosida,3,0,Kotlin,,,J,Information and communication,low
+711549330,app-alerta-sullana,peteragurto,3,0,Kotlin,,"Proyecto de aplicación nativa Android para ayudar a resolver la problemática delictiva en la ciudad de Sullana, Perú.",O,Public administration and defense,high
+1066110450,wowiplat,ieeecsutp,3,0,JavaScript,,,J,Information and communication,low
+915161018,utec-class-notes,dfigueroaw,3,0,,,A curated collection of open-source class notes for various Computer Science courses at UTEC,P,Education,high
+931671734,VLM-Privacy,Artcs1,3,0,Python,,[COLM'25] Beyond Blanket Masking: Examining Granularity for Privacy Protection in Images Captured by Blind and Low Vision Users,Q,Human health and social work,medium
+366543863,Spherical-Transformer-for-classification-on-sphericalimages,Artcs1,3,0,Jupyter Notebook,,,M,"Professional, scientific activities",medium
+529415627,components,idbi,3,0,TypeScript,,,J,Information and communication,low
+970470572,ubigeos_peru,MichaelSuarez0,3,2,Python,"csv, departamentos, distritos, inei, peru, provincias, python, reniec, ubigeo","API y base de datos de departamentos, provincias y distritos del Perú (UBIGEO) actualizada al 2025 para INEI y RENIEC.",O,Public administration and defense,high
+1031043447,Phosphorium,Kimiberry64,3,1,C,,"A 7 payload PRGBQUAD hybrid I did in C. For entertainment purposes only,",R,"Arts, entertainment and recreation",medium
+372673417,ansible-role-pgagent,jegj,3,0,,"ansible, debian, pgagent, postgresql, systemd, ubuntu",Install pg agent as Systemd unit on Ubuntu/Debian,J,Information and communication,high
+765749884,image-gallery-next,ALauraOliva,3,0,TypeScript,,"minimalist image gallery with Next.js, GSAP, Tailwind CSS and Unsplash API",R,"Arts, entertainment and recreation",high
+376133573,asr-htk-quechua,Llamacha,3,3,,"low-resource-languages, quechua, speech-recognition, speech-to-text",ASR for quechua language is an open source which can run in real time using HTK toolkit.,J,Information and communication,high
+1132495687,t9nKit,plasenca-d,3,0,TypeScript,"i18n, typescript, vanilla-js","A lightweight, universal translation toolkit for JavaScript. Built to work seamlessly on both server and client environments.",J,Information and communication,high
+989358307,nestjs-prisma-pro-starter,plasenca-d,3,0,TypeScript,,"Starter kit para APIs escalables con NestJS y Prisma. Autenticación avanzada, uploads a Cloudflare R2 y patrones enterprise.",J,Information and communication,high
+273726287,IDEA_Extraccion_valor_clave,jorgechavez6816,3,0,Jupyter Notebook,"caseware, clave, extraccion, ideacript, python, valor",Procedimiento en IDEAScript y su traducción en python de la extracción con valor clave.,M,"Professional, scientific activities",medium
+273510738,minsa_sinadef_covid19,jorgechavez6816,3,1,Jupyter Notebook,"fallecidos, minsa, python, sinadef",Obtención de información de datos de fallecidos del Sinadef,Q,Human health and social work,high
+273271414,minem_directorios,jorgechavez6816,3,2,Inno Setup,"excel, minem, python, xls","Obtención de información en formato excel, xls, del Ministerio de Energia y Minas del Perú",B,Mining and quarrying,high
+287067097,The-Rick-and-Morty-Wiki,MarycieloParionaBernaola,3,1,JavaScript,"array-methods, css3, flexbox, html5, javascript, jest-tests, jira, mediaqueries, responsive-design, scrum, usability-testing, user-stories, ux-research","Web app in which users of the Rick and Morty series can see, search, sort and filter cards with information of interest about the characters.",R,"Arts, entertainment and recreation",high
+637494089,spring-boot-starter-jdbc-repository,cmeza20,3,2,Java,,"Jdbc template repositories, inspired by Spring data Jpa",J,Information and communication,high
+3925363,django-charts,soad241,3,3,Python,,,J,Information and communication,medium
+1329507,brabeion,soad241,3,0,Python,,a badges app for Django,J,Information and communication,high
+1239488,django-request-lite,soad241,3,0,JavaScript,,"django-request is a statistics module for django. It stores requests in a database for admins to see, it can also be used to get statistics on who is online etc.",J,Information and communication,high
+103044638,MiApp,AbelVasquezYuto,3,0,Java,,,J,Information and communication,low
+55577101,atomic-core,luissardon,3,0,JavaScript,,OOP Javascript Library for Building Components Under the Atomic Design System for The Atomic Project,J,Information and communication,high
+227908233,cohort-analysis-with-plotly-viz,IsmaelMasharo,3,0,Jupyter Notebook,,Consumer behavior analysis of users interactions with an application,G,Wholesale and retail trade,high
+315114981,computer-graphics,felipeturing,3,0,C++,,Apuntes del curso Computación Gráfica.,M,"Professional, scientific activities",high
+100912571,nme-opengl-tutorials,madrazo,3,0,Haxe,"haxe, haxenme, nme, opengl",Port from https://github.com/opengl-tutorials/ogl on Haxe NME engine https://github.com/haxenme/nme (work in progress),J,Information and communication,high
+911810297,buttonemogi,mabelolivera10,2,0,CSS,,,J,Information and communication,low
+911809900,iloveuilive,mabelolivera10,2,2,CSS,,,J,Information and communication,low
+877613908,generador-burbujas,mabelolivera10,2,0,CSS,,,R,"Arts, entertainment and recreation",medium
+877612964,expander-notidicaciones,mabelolivera10,2,0,CSS,,,J,Information and communication,low
+842735432,peralove,mabelolivera10,2,1,CSS,,,J,Information and communication,low
+810904278,texto-girar-aspiral,mabelolivera10,2,0,CSS,,,R,"Arts, entertainment and recreation",medium
+810903418,icono-galeria-iphone,mabelolivera10,2,0,CSS,,,J,Information and communication,medium
+800544599,estacionesdiadelamadre,mabelolivera10,2,0,HTML,,,S,Other service activities,low
+800542881,emoticonlove,mabelolivera10,2,0,JavaScript,,,R,"Arts, entertainment and recreation",medium
+800541713,pesceralive,mabelolivera10,2,0,CSS,,,A,"Agriculture, forestry and fishing",low
