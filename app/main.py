@@ -199,4 +199,5 @@ try:
         else:
             st.sidebar.warning("Please enter a question.")
 except Exception as e:
-    st.sidebar.error("AI Agent currently unavailable. Check your OpenAI Key configuration.")
+    st.sidebar.error(f"AI Agent error: {str(e)}")
+    st.sidebar.info("Tip: If on local, set OPENAI_API_KEY in .env. If on Cloud, set it in Secrets.")
