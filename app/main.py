@@ -2,6 +2,10 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import os
+import sys
+
+# Fix for Streamlit Cloud to find the 'src' module
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 st.set_page_config(
     page_title="GitHub Peru Analytics",
